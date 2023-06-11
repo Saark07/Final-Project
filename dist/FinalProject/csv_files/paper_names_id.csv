@@ -1,0 +1,1916 @@
+ID,Title
+35,"Genetic Algorithms in Search, Optimization and Machine Learning."
+40,Dynamic control of genetic algorithms using fuzzy logic techniques.
+114,Learning to Act using Real- Time Dynamic Programming.
+117,Dynamic Programming and Markov Processes.
+128,Reinforcement Learning Algorithms for Average-Payoff Markovian Decision Processes.
+130,Ok. Scaling up average reward reinforcement learning by approx-imating the domain models and the value function.
+164,Learning polynomials with queries: The highly noisy case.
+288,"Memory-based Stochastic Optimization,"
+424,A hybrid nearest-neighbor and nearest-hyperrectangle algorithm.
+434,Learning Analytically and Inductively.
+463,"""Abstraction and Decomposition in Hill-climbing Design Optimization""."
+504,Constructive belief and rational representation.
+506,"Rationality and its Roles in Reasoning (extended version),"
+887,Some studies in machine learning using the game of Checkers.
+906,Regularization thory and neural networks architectures.
+910,"A Theory of Networks for Approximation and Learning,"
+936,The Use of Explicit Goals for Knowledge to Guide Inference and Learning.
+940,Decision Models: A Theory of Volitional Explanation.
+941,Incremental Learning of Explanation Patterns and their Indices.
+943,"Indexing, Elaboration and Refinement: Incremental Learning of Explanatory Cases."
+1026,"Phenes and the Baldwin Effect: Learning and evolution in a simulated population,"
+1033,The evolutionary cost of learning.
+1034,"No Gain: Landscapes, Learning Costs and Genetic Assimilation, submitted to EC and University of Sussex, CSRP 409(?) [Merezhkovsky, KS, 1920] in Khakina LN (1992) Concepts of Symbiogenesis: History of Symbiogenesis as an evolutionary mechanism,"
+1035,Evolving sensors in environments of controlled complexity.
+1213,Efficient superscalar performance through boosting.
+1237,"Toward Learning Systems That Integrate Different Strategies and Representations. In: Artificial Intelligence and Neural Networks: Steps toward Principled Integration. Honavar,"
+1246,The Design and Analysis of Efficient Learning Algorithms.
+1272,"""Induction of Decision Trees,"""
+1365,"Self-Organization and Associative Memory,"
+1385,Learning coordinated behaviors for control of a simulated robot.
+1481,"Case-based reasoning: Foundational issues, methodological variations, and system approaches."
+1688,"""Using DNA to solve NP-Complete Problems"","
+1694,"(1993) A NN Algorithm for Hard Satisfiability problems,"
+1717,On convergence properties of the em algorithm for gaussian mixtures.
+1786,A benchmark for classifier learning.
+1817,Hybrid Learning Using Genetic Algorithms and Decision Trees for Pattern Classification.
+1919,The frame problem and Bayesian network action representations.
+1949,Linking adaptation and similarity learning.
+1951,Adaptive similarity assessment for case-based explanation.
+1952,Combining rules and cases to learn case adaptation.
+1953,Representing self-knowledge for introspection about memory search.
+1955,"Machine Learning: A Multistrategy Approach,"
+1956,"Inferential Theory of Learning: Developing Foundations for Multistrategy Learning, in Machine Learning: A Multistrategy Approach, Vol. IV, R.S."
+1959,Introspective Reasoning using Meta-Explanations for Multistrat-egy Learning.
+1997,Estimating the error rate of a prediction rule: improvement on cross-validation.
+1999,Wrappers for Performance Enhancement and Oblivious Decision Graphs.
+2354,"A Statistical Approach to Solving the EBL Utility Problem,"
+2440,Learning logical definitions from relations.
+2653,A Decision-theoretic Generalization of On-line Learning and an Application to Boosting.
+2654,Experiments with a New Boosting Algorithm.
+2658,A new learning algorithm for blind signal separation.
+2663,The Canonical Metric For Vector Quantization.
+2665,An Information Maximization Approach to Blind Separation and Blind Deconvolution.
+2695,"Combining exploratory projection pursuit and projection pursuit regression with application to neural networks, 1991."
+2696,"Objective function formulation of the BCM theory of visual cortical plasticity: Statistical connections, stability conditions."
+2698,"Face recognition using a hybrid supervised/unsupervised neural network, 1992."
+2702,TK (1994). Fast non-linear dimension reduction.
+3084,A comparative utility analysis of case-based reasoning and control-rule learning systems.
+3085,A model of similarity-based retrieval.
+3095,Constructive similarity assessment: Using stored cases to define new situa tions.
+3097,Towards a computer model of memory search strategy learning.
+3101,Acquiring case adaptation knowledge: A hybrid approach.
+3112,Veloso (1994). Planning and Learning by Analogical Reasoning.
+3187,A reference Bayesian test for nested hypotheses and its relationship to the Schwarz criterion.
+3191,Model selection and accounting for model uncertainty in graphical models using Occam\'s window.
+3192,Bayesian graphical models for discrete data.
+3217,"Theory and Applications of Agnostic PAC-Learning with Small Decision Trees,"
+3218,Rule induction with CN2: some recent improvements.
+3220,A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features.
+3222,Beyond independence: Conditions for the optimality of the simple bayesian classifier.
+3223,Supervised and unsupervised discretization of continuous features.
+3229,Introduction to the Theory of Neural Computa 92 tion.
+3231,Irrelevant features and the subset selection problem.
+3232,"The Power of Decision Tables,"
+3233,A study of cross-validation and bootstrap for accuracy estimation and model selection.
+3235,"Scaling up the accuracy of naive-bayes classifiers: a decision-tree hybrid. In Proceedings of the Second International Conference on Knowledge Discovery and Data Mining,"
+3236,A machine learning library in C++.
+3237,Feature subset selection using the wrapper method: Overfitting and dynamic search space.
+3240,"""An analysis of bayesian classifiers,"""
+3243,A system for induction of oblique decision trees.
+3828,A theory of questions and question asking.
+3932,Finding analogues for innovative design.
+4274,"`Multistrategy learning and theory revision\',"
+4329,Supervised learning from incomplete data via an EM approach.
+4330,"Hierarchical Mixtures of Experts and the EM Algorithm,"
+4335,A new view of the EM algorithm that justifies incremental and other variants.
+4553,Learning Classification Rules Using Lattices.
+4584,Neuronlike adaptive elements that can solve difficult learning control problems.
+4637,Learning to model sequences generated by switching distributions.
+4649,A knowledge-intensive approach to learning relational concepts.
+4660,Context-sensitive learning methods for text categorization.
+4804,Toward efficient agnostic learning.
+4878,"""Cooperative Case-Based Reasoning"","
+4983,A computational environment for exhaust nozzle design.
+5038,Using and com-bining predictors that specialize.
+5055,W.S. Boosting the Margin: A New Explanation for the Effectiveness of Voting Methods.
+5062,A Memory Model for Case Retrieval by Activation Passing.
+5064,Case Retrieval Nets: Basic ideas and extensions. accepted for:
+5069,Applying Case Retrieval Nets to diagnostic tasks in technical domains. accepted for:
+5075,An investigation of marker-passing algorithms for analogue retrieval.
+5086,Bayes factors and model uncertainty.
+5194,"""For neural networks, function determines form,"""
+5348,(1992) Feature extraction using an unsupervised neural network.
+5454,"""A self-organizing multiple-view representation of 3-D objects,"""
+5462,"Prior, stabilizers and basis functions : from regularization to radial, tensor and additive splines."
+5600,Derivation replay for partial-order planning.
+5869,Observation on cortical mechanisms for object recognition and learning.
+5959,Selection of relevant features in machine learning.
+5966,Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic Decision Tree Induction Algorithm.
+6125,Boosting a Weak Learning Algorithm by Majority.
+6130,Local error bars for nonlinear regression and time series prediction.
+6151,Strategy Learning with Multilayer Connectionist Represent ations.
+6152,Reinforcement Learning with Modular Neural Networks for Control.
+6155,On the Computational Economics of Reinforcement Learning.
+6163,Generalization in reinforcement learning: Safely approximating the value function.
+6169,Improving elevator performance using reinforcement learning.
+6170,SP (1996). Improving policies without measuring merits.
+6184,"""Forward Models: Supervised Learning with a Distal Teacher,"""
+6196,"""The Parti-game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State Spaces,"""
+6209,"Transfer of Learning by Composing Solutions of Elemental Sequential Tasks,"
+6210,Reinforcement Learning with Soft State Aggregation.
+6213,Learning to predict by the methods of temporal differences.
+6214,"Integrated Architectures for Learning, Planning and Reacting Based on Approximating Dynamic Programming,"
+6215,"""Planning by Incremental Dynamic Programming."""
+6216,Generalization in reinforcement learning: Successful examples using sparse coarse coding.
+6217,"R.S., & Whitehead, S.D. (1993). Online learning with random representations."
+6220,Issues in using function approximation for reinforcement learning.
+6224,Tight Performance Bounds on Greedy Poli cies Based on Imperfect Value Functions.
+6238,Autonomous Learning from the Environment.
+6311,Addressing the Selective Superiority Problem: Automatic Algorithm/Model Class Selection.
+6318,Rule induction and instance-based learning: A unified approach.
+6334,Prototype and feature selection by sampling and random mutation hill climbing algorithms.
+6343,"A Review and Comparative Evaluation of Feature Weighting Methods for Lazy Learning Algorithms,"
+6344,"Heterogeneous Radial Basis Functions,"
+6346,"Instance-Based Learning with Genetically Derived Attribute Weights,"
+6378,Learning to coordinate without sharing information.
+6385,Multi-agent reinforcement learning: independent vs.
+6539,Quantifying prior determination knowledge using PAC learning model.
+6639,Stochastic Inductive Logic Programming.
+6741,Learning concepts by asking questions. In R.S.
+6767,Generalizing from case studies: A case study.
+6771,Statistical tests for comparing supervised classification learning algorithms.
+6775,Statistical evaluation of neural network experiments: Minimum requirements and current practice.
+6782,"Oblivious decision trees, graphs and top-down pruning."
+6784,A study of experimental evaluations of neural network learning algorithms: Current research practice.
+6786,Bayesian model selection in social research.
+6814,Factorial hidden Markov models.
+6818,Exploiting tractable substructures in intractable networks.
+6898,"""Bootstrap Confidence Intervals for Smoothing Splines and Their Comparison to Bayesian Confidence Intervals""."
+6910,"Smoothing spline ANOVA for exponential families, with application to the Wisconsin Epidemiological Study of Diabetic Retinopathy."
+6913,On the convergence properties of the EM algorithm.
+6917,"""Covering vs. Divide-and-Conquer for Top-Down Induction of Logic Programs"","
+6923,Inductive Constraint Logic.
+6925,Solving the multiple-instance problem with axis-parallel rectangles.
+6935,Inverse Entailment and Progol.
+6939,Learning first-order definitions of functions.
+6941,Multi-class problems and discretization in ICL (extended abstract).
+7022,"Modularity in a connectionist model of morphology acquisition,"
+7032,"Tibshirani (1994) Combining Estimates in Regression and Classification,"
+7041,Bootstraping with Noise: An Effective Regularization Technique.
+7047,"Learning one more thing,"
+7272,Ocular dominance and patterned lateral connections in a self-organizing model of the primary visual cortex.
+7276,"Self-organization and segmentation with laterally connected maps of spiking neurons. In Workshop on Self-Organizing Maps,"
+7296,Modeling cortical plasticity based on adapting lateral interaction.
+7297,"Self-organization and functional role of lateral connections and multi size receptive fields in the primary visual cortex. Neural Processing Letters,"
+7419,Neuro-dynamic Programming.
+7430,Multi-time models for temporally abstract planning.
+7432,How to dynamically merge markov decision processes.
+7532,"""Remarks on Finite Gain Stabilizability of Linear Systems Subject to Input Saturation,"""
+7537,Global stabilization of linear systems with bounded feedback.
+7867,Ellman. Knowledge-based re-engineering of legacy programs for robustness in automated design.
+8079,Bias plus variance decomposition for zero-one loss functions.
+8213,Robust reinforcement learning in motion planning.
+8224,An empirical comparison of selection measures for decision-tree induction.
+8581,Learning factorial codes by predictability minimization.
+8591,Limits of control flow on parallelism.
+8594,"Limits of Instruction-Level Parallelism,"
+8617,"""A framework of combining symbolic and neural learning,"""
+8619,An Anytime Approach to Connectionist Theory Refinement: Refining the Topologies of Knowledge-Based Neural Networks.
+8687,The difficulties of learning logic programs with cut.
+8696,The complexity of theory revision.
+8699,Theory revision in fault hierarchies.
+8703,Theory refinement combining analytical and empirical methods.
+8766,Resource Spackling: A framework for integrating register allocation in local and global schedulers.
+8821,"`A case study in machine learning\',"
+8832,"`The possible contribution of AI to the avoidance of crises and wars: Using CBR methods with the KOSIMO database of conflicts\',"
+8865,"""Using genetic algorithms to explore pattern recognition in the immune system,"""
+8872,Efficient reinforcement learning through symbiotic evolution.
+8874,A cooperative coevolutionary approach to function optimization.
+8875,"""A Coevolutionary Approach to Learning Sequential Decision Rules"","
+8961,Machine learning research: Four current directions.
+9513,Long. On the complexity of learning from drifting distributions.
+9515,Tracking drifting concepts by minimizing disagreements.
+9559,A theory and methodology of machine learning.
+9581,"De-Noising by soft thresholding,"
+9586,"Adaptive Simulated Annealing (ASA),"
+9708,"""Acquiring Recursive Concepts with Explanation-Based Learning,"""
+9716,A formalization of explanation-based macro-operator learning.
+10169,Dietterich (1991). Learning with Many Irrelevant Features.
+10174,Knowing what doesn\'t matter: Exploiting (intentionally) omitted superfluous data.
+10177,"Learning in the presence of malicious errors,"
+10183,"""Concept learning and Heuristic Classification in Weak-Theory Domains,"""
+10186,Learning default concepts.
+10430,Rules and precedents as complementary warrants.
+10435,Improving rule-based systems through case-based reasoning.
+10531,Using dirichlet mixture priors to derive hidden Markov models for protein families.
+10793,Learning finite state automata using local distinguishing experiments.
+10796,Incremental induction of decision trees.
+10798,"""Learning structural descriptions from examples."""
+10981,"Acquiring the mapping from meaning to sounds. Connection Science,"
+11093,"""Factorial learning and the EM algorithm"","
+11148,Exploiting Choice: Instruction Fetch and Issue on an implementable Simultaneous Multithread-ing Processor.
+11325,"""On Learning Multiple Descriptions of a Concept,"""
+11326,What should be minimized in a decision tree?.
+11335,Concept learning and the problem of small disjuncts.
+11337,An Empirical Analysis of the Benefit of Decision Tree Size Biases as a Function of Concept Distribution.
+11339,Exploring the decision forest: An empirical investigation of Occam\'s razor in decision tree induction.
+11342,"On Pruning and Averaging Decision Trees,"
+12155,Exact learning of -DNF formulas with malicious membership queries.
+12158,Slonim. Learning monotone DNF with an in complete membership oracle.
+12165,Slonim. The power of team exploration: Two robots can learn unlabeled directed graphs.
+12169,Learning with unreliable boundary queries.
+12182,"Warmuth ""How to use expert advice"","
+12194,Learning from a consistently ignorant teacher.
+12195,Efficient learning of typical finite automata from random walks.
+12197,"Can pac learning algorithms tolerate random attribute noise? Algorithmica,"
+12198,Exact identification of circuits using fixed points of amplification functions.
+12199,Learning k-term DNF formulas with an incomplete membership oracle.
+12210,Efficient distribution-free learning of probabilistic concepts.
+12211,Learning from a population of hypotheses.
+12238,Exactly learning automata with small cover time.
+12247,Learning with queries but incomplete information.
+12275,P (1997). Neural models for part whole hierarchies.
+12330,"""Recognizing handwritten digits using mixtures of linear models"","
+12337,A unified gradient-descent/clustering algorithm architecture for finite state machine induction.
+12347,"""First-order vs. second-order single layer recurrent neural networks,"""
+12350,Cryptographic limitations on learning boolean formulae and finite automata.
+12359,Pruning recurrent neural networks for improved generalization performance.
+12439,Improving the performance of radial basis function networks by learning center locations.
+12558,"A trade network game with endogenous partner selection, Economic Report No."
+12576,"""Learning sequential decision rules using simulation models and competition,"""
+12631,"Smoothing spline ANOVA with component-wise Bayesian ""confidence intervals""."
+12638,"Soft classification, a.k.a. risk estimation, via penalized log likelihood and smoothing spline analysis of variance."
+12946,Supervised learning from incom plete data via an EM approach.
+12960,Active learning with committees for text categorization.
+13024,A hardware mechanism for dynamic reordering of memory references.
+13136,(1995) Fast perceptual learning in hyperacuity.
+13193,Reinforcement learning algorithm for partially observable Markov decision problems.
+13195,Planning and acting in partially observable stochastic domains.
+13205,"Mark (1992), Two Methods for Hierarchy Learning in Reinforcement Environments,"
+13208,"Evolutionary principles in self-referential learning, or on learning how to learn: the meta-meta-..."
+13212,Discovering solutions with low kolmogorov complexity and high generalization capability.
+13213,"A general method for multi-agent reinforcement learning in unrestricted environments. In Adaptation, Coevolution and Learning in Multiagent Systems:"
+13269,Monte-carlo reinforcement learning in non-Markovian decision problems.
+13652,Brain-Structured Networks That Perceive and Learn.
+13654,Coordination and Control Structures and Processes: Possibilities for Connectionist Networks.
+13656,"Some Biases For Efficient Learning of Spatial, Temporal, and Spatio-Temporal Patterns."
+13658,Generative Learning Structures for Generalized Connectionist Networks.
+13686,"A Framework for Combining Symbolic and Neural Learning. In: Artificial Intelligence and Neural Networks: Steps Toward Principled Integration. Honavar,"
+13717,Learning se-mantic grammars with constructive inductive logic programming.
+13885,Learning controllers for industrial robots.
+13917,Designing neural networks for adaptive control.
+13960,Using a case-base of surfaces to speed-up reinforcement learning.
+13966,A teaching method for memory-based control.
+13972,Finding structure in reinforcement learning.
+13982,Long. On-line learning with linear loss constraints.
+14062,A formal analysis of the role of multi--point crossover in genetic algorithms.
+14083,"`Data Reconciliation and Gross Error Detection for Dynamic Systems\',"
+14090,",`Subregion-Adaptive Integration of Functions having a Dominant Peak\',"
+14428,Belief revision in probability theory.
+14429,From inheritance relation to non-axiomatic logic.
+14430,Non-axiomatic reasoning system (version 2.2).
+14431,An unified treatment of uncertainties.
+14529,Concept learning and flexible weighting.
+14531,Context-sensitive feature selection for lazy learners.
+14545,"""A patient-adaptive neural network ECG patient monitoring algorithm"","
+14549,Recognition and exploitation of contextual clues via incremental meta-learning.
+14807,Exponentially many local minima for single neurons.
+15076,An improved training algorithm for support vector machines.
+15429,"""A General Lower Bound on the Number of Examples Needed for Learning,"""
+15431,Long. A generalization of Sauer\'s lemma.
+15670,Iterated prisoner\'s dilemma with choice and refusal of partners.
+15889,Structural similarity as guidance in case-based design.
+15892,"Automatic Indexing, Retrieval and Reuse of Topologies in Complex Designs."
+15984,"""On the Markov equivalence of chain graphs, undirected graphs, and acyclic digraphs"","
+15987,(1993) Linear dependencies represented by chain graphs.
+16008,Graphical Models in Applied Multivariate Statistics.
+16437,"""Learning context-free grammars: Limitations of a recurrent neural network with an external stack memory,"""
+16451,"Using Recurrent Neural Networks to Learn the Structure of Interconnection Networks,"
+16461,"""On the ap plicability of neural network and machine learning methodologies to natural language processing,"""
+16470,"Giles P.C., and Collingwood, ""Finite state machines and recurrent neural networks -automata and dynamical systems approaches"","
+16471,"""Constructing deterministic finite-state automata in recurrent neural networks"","
+16474,"""Rule checking with recurrent neural networks,"""
+16476,"Extraction of rules from discrete-time recurrent neural networks. Neural Networks,"
+16485,On the Computational Power of Neural Nets.
+16819,Markov chain Monte Carlo convergence diagnostics: A comparative review.
+16843,"""Sampling from Multimodal Distributions Using Tempered Transitions,"""
+17201,Scaling Up.
+17208,Approximating optimal policies for partially observable stochastic domains.
+17242,Detecting features in spatial point processes with clutter via model-based clustering.
+17363,Logistic Response Projection Pursuit Regression.
+17476,Markov games as a framework for multi-agent reinforcement learning.
+17477,Co-evolving soccer softbot team coordination with genetic programming. In RoboCup-97: The first robot world cup soccer games and conferences.
+17488,Incremental self-improvement for lifetime multi-agent reinforcement learning.
+17798,Using Decision Trees to Improve Case-based Learning.
+17811,Genetic algorithms as a tool for feature selection in machine learning.
+17821,A game theoretic approach to moving horizon control.
+18251,Lazy acquisition of place knowledge.
+18313,Towards planning: Incremental investigations into adaptive robot control.
+18532,"A remark on robust stabilization of general asymptotically controllable systems,"
+18536,"""A `universal\' construction of Artstein\'s the orem on nonlinear stabilization,"""
+18582,"""Knowledge-Based Genetic Learning"","
+18615,Learning Trees and Rules with Set-valued Features.
+18619,Heterogeneous uncertainty sampling for supervised learning.
+18770,A guide to the literature on learning probabilistic networs from data.
+18773,Build ing classifers using Bayesian networks.
+18774,On the sample complexity of learning Bayesian networks.
+18777,A tutorial on learning Bayesian networks.
+18781,Learning to reason.
+18785,On the hardness of approximate rea soning.
+18811,Comparing Bayesian model class selection criteria by discrete finite mixtures.
+18812,Constructing bayesian finite mixture models by the EM algorithm.
+18815,Probabilistic instance-based learning.
+18832,Reinforcement Learning: A Survey.
+18833,Experiments on adding memory to XCS.
+18834,A Study on the Generalization Capabilities of XCS.
+19045,"""Automated WYSIWYG Design of both the topology and component val 223 ues of electrical circuits using genetic programming,"""
+19231,"Query by Committee,"
+19621,Self-organized formation of typologically correct feature maps.
+19697,Keeping neural networks simple by minimizing the description length of the weights.
+20178,Discovery of Physical Principles from Design Experiences.
+20179,Use of Mental Models for Constraining Index Learning in Experience-Based Design.
+20180,Learning indices for schema selection.
+20193,The Structure-Mapping Engine: Algorithms and Examples.
+20526,"""Self-improving factory simulation using continuous-time average reward reinforcement learning"" in Proceedings of the Fourteenth International Machine Learning Conference.,"
+20528,Efficient Locally Weighted Polynomial Regression.
+20534,"Reinforcement Learning for Job-Shop Scheduling,"
+20584,Multivariate versus univariate decision trees.
+20592,Learning non-linearly separable boolean functions with linear threshold unit trees and madaline-style networks.
+20593,Generating Neural Networks Through the Induction of Threshold Logic Unit Trees (Extended Abstract).
+20601,Learning conjunctions of Horn clauses.
+20602,Learning Boolean read-once formulas with arbitrary symmetric and constant fan-in gates.
+20821,"Top-down induction of logical decision trees,"
+20833,Efficient specific-to-general rule induction.
+20850,"Compression-Based Feature Subset Selection,"
+20857,The ilp description learning problem: Towards a genearl model-leve definition of data mining in ilp.
+20920,Comparing predictive inference methods for discrete domains.
+20923,Bayesian Case-Based Reasoning with Neural Networks. Pp.
+20924,"Massively parallel case-based reasoning with probabilistic similarity metrics. In Topics in Case-Based Reasoning,"
+20942,(in press). Decision tree induction based on efficient tree restructuring.
+20972,Exploratory Learning in the Game of GO: Initial Results.
+22229,"""The Evolution of Agents that Build Mental Models and Create Simple Plans Using Genetic Programming,"""
+22241,Simultaneous evolution of programs and their control structures.
+22386,Paying attention to the right things: Issues of focus in case-based creative design.
+22431,An investigation of noise-tolerant relational concept learning algorithms.
+22563,"""A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping,"""
+22564,Pronouncing Names by a Combination of Rule-Based and Case-Based Reasoning.
+22566,"""A Comparison of ANAPRON with Seven Other Name-pronunciation Systems,"""
+22835,Vuurpijl and Th.E. Schouten. A Scalable Performance Prediction Model for Parallel Neural Network Simulations.
+22869,Applying case-based reasoning to control in robotics.
+22874,A similarity-based retrieval tool for software repositories.
+22875,Inductive learning and case-based reasoning.
+22876,Supporting flexibility. a case-based reasoning approach.
+22883,On the informativeness of the DNA promoter sequences domain theory.
+22886,Continuous case-based reasoning.
+23069,On the logic of iterated belief revision.
+23070,"A Knowledge-Based Framework for Belief Change, Part II: Revision and Update."
+23116,Bayesian Methods for Adaptive Models.
+23258,"""Exploration and model building in mobile robot domains"","
+23448,Data exploration using self-organizing maps.
+23502,A distributed feature map model of the lexicon.
+23507,"""Natural language processing with modular neural networks and distributed lexicon."""
+23545,Towards concept formation grounded on perception and action of a mobile robot.
+23546,Learning action-oriented perceptual features for robot navigation.
+23738,A Theory of Learning Classification Rules.
+23774,High-Performance Job-Shop Scheduling With A Time-Delay TD() Network.
+24043,Human Face Detection in Visual Scenes.
+24476,Representing preferences as ceteris paribus comparatives.
+24530,Approximating value trees in structured dynamic programming.
+24966,A practical Bayesian framework for backpropagation networks.
+24974,Rasmussen (1996). Evaluation of Gaussian Processes and Other Methods for Nonlinear Regression.
+25181,Bilinear separation of two sets in n-space.
+25184,Street. Feature selection via mathematical programming.
+25413,Simultaneous Multithreading: A Platform for Next-Generation Processors.
+25702,Nonlinear Prediction of Chaotic Time Series.
+25772,Flexible metric nearest neighbor classification.
+25791,"Adapting Bias by Gradient Descent: An Incremental Version of Delta-Bar-Delta,"
+25794,Is Learning the n-th Thing Any Easier Than Learning the First? in:
+25805,"Weakly Learning DNF and Characterizing Statistical Query Learning Using Fourier Analysis,"
+26850,Determining mental state from EEG signals using neural networks.
+27174,Mathematical programming in neural networks.
+27199,Learning unions of boxes with membership and equivalence queries.
+27203,"""The Power of Self-Directed Learning"","
+27230,Enhancing model-based learning for its application in robot navigation.
+27241,Error Reduction through Learning Multiple Descriptions.
+27243,"An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants."
+27246,"Working Notes of AAAI Workshop on Integrating Multiple Learned Models for Improving and Scaling Machine Learning Algorithms (available at http://www.cs.fit.edu/~imlm/papers.html), Portland,"
+27249,"Machine Learning Bias, Statistical Bias, and Statistical Variance of Decision Tree Algorithms."
+27250,Why does Bagging Work? a Bayesian Account and its Implications.
+27510,Measuring the difficulty of specific learning problems.
+27514,Statistical biases in backpropagation learning.
+27530,Learning symbolic rules using artificial neural networks.
+27531,Using sampling and queries to extract rules from trained neural networks.
+27535,Combining neural and symbolic learning to revise probabilistic rule bases.
+27543,"""Extracting rules from artificial neural networks with distributed representations"","
+27606,Statistical queries and faulty PAC oracles.
+27612,On the sample complexity of weak learning.
+27623,Neural network exploration using optimal experiment design.
+27627,"Information-Based Objective Functions for Active Data Selection,"
+27631,"""Robot Juggling: An Implementation of Memory-Based Learning,"""
+27632,Reinforcement driven information acquisition in nondeterministic environments.
+27895,Instance-based learning algorithms.
+28026,"`Case Retrieval Nets applied to large case bases\',"
+28202,Baird (1995). Residual algorithms: Reinforcement learning with function approximation.
+28227,Reinforcement learning methods for continuous time markov decision problems.
+28230,Decision-theoretic case-based reasoning.
+28249,Truncating temporal differences: On the efficient implementation of TD() for reinforcement learning.
+28254,"""Active Learning with Statistical Models,"""
+28265,Using Introspective Reasoning to Select Learning Strategies.
+28267,Choosing learning strategies to achieve learning goals.
+28278,Reinforcement learning for planning and control.
+28287,Robot shaping: Developing autonomous agents though learning.
+28290,Genetic-based machine learning and behavior based robotics: a new syntesis.
+28336,Evolving behavioral strategies in predators and prey.
+28350,On the convergence of stochastic iterative dynamic programming algorithms.
+28359,Associative reinforcement learning: A generate and test algorithm.
+28385,A distributed reinforcement learning scheme for network routing.
+28387,Pack Kaelbling. On the complexity of solving Markov decision problems.
+28389,Creating advice-taking reinforcement learners.
+28412,Memory-based learning for control.
+28447,"""Multistrategy Learning in Reactive Control Systems for Autonomous Robotic Navigation,"""
+28456,A competitive approach to game learning.
+28471,Markov decision pro cesses in large state spaces.
+28473,Adaptive load balancing: A study in multi-agent learning.
+28485,"The efficient learning of multiple task sequences,"
+28487,Learning to Solve Markovian Decision Processes.
+28489,"Learning without state-estimation in Partially Observable Markovian Decision Processes,"
+28491,Reinforcement learning with replacing eligibility traces.
+28504,TD models: modeling the world at a mixture of time scales.
+28542,Analysis of some incremental variants of policy iteration: First steps toward understanding actor-critic learning systems.
+28632,Universal portfolios with and without transaction costs.
+28640,Predicting a binary sequence almost as well as the optimal biased coin.
+28641,"Game theory, on-line prediction and boosting."
+28649,On-line learning of linear functions.
+28674,"A theory of unsupervised speedup learning,"
+28851,"Oppacher (1994). Program search with a hierarchical variable length representation: genetic programming, simulated annealing and hill climbing,"
+28957,Operations for learning with graphical models.
+28964,Robust learning with missing data.
+29492,Induction of multiscale temporal structure.
+29708,Diffusion of credit in markovian models.
+29723,Boltzmann chains and hidden Markov models.
+29738,"""An Optimum Decision Rule for Pattern Recognition,"""
+30817,"""Analysis of Linsker\'s simulations of Hebbian rules,"""
+30895,Committees of decision trees.
+30901,"Lookahead and Pathology in Decision Tree Induction,"
+30934,"Selective Sampling Using the Query by Committee Algorithm,"
+30973,Plate. Holographic Reduced Representations.
+31043,"FONN: Combining first order logic with connectionist learning,"
+31055,Extracting Comprehensible Models from Trained Neural Networks.
+31083,Data Minining using MLC++: A Machine Learning Library in C++.
+31097,What DaimlerBenz has learned as an industrial partner from the machine learning project Statlog. Working Notes for Applying Machine Learning in Practice:
+31105,Learning from bad data.
+31336,The megaprior heuristic for discovering protein sequence patterns.
+31349,Motif-based hidden Markov models of protein families.
+31353,Hidden Markov models in computational biology: Applications to protein modeling.
+31479,Induction of Recursive Bayesian Classifiers In Proc.
+31483,"""Induction of selective bayesian classifiers,"""
+31489,I.M.: Adapting to unknown smoothness via wavelet shrinkage.
+31769,"Learning Visual Schemas in Neural Networks for Object Recognition and Scene Analysis,"
+31863,Unsupervised Learning using MML.
+31927,A generalized hidden Markov model for the recognition of human genes in DNA.
+31932,A decision tree system for finding genes in dna.
+32083,Back propagation is sensitive to initial conditions.
+32260,On-line portfolio selection using multiplicative updates.
+32276,Extracting support data for a given task.
+32688,(1994) Classification using Hierarchical Mixtures of Experts.
+32698,Ensemble learning for hidden Markovmodels.
+32872,Acting under uncertainty: Discrete bayesian models for mobile-robot navigation.
+33013,Learning conventions in multiagent stochastic domains using likelihood estimates.
+33231,Probabilistic independence networks for hidden Markov probability models.
+33301,The Design and Implementation of a Case based Planning Framework within a Partial Order Planner.
+33303,Design and Implementation of a Replay Framework based on a Partial order Planner.
+33325,"Applying Winnow to Context Sensitive Spelling Correction,"
+33412,Learning to predict reading frames in E. coli DNA sequences.
+33818,"Statistical mechanics of nonlinear nonequilibrium financial markets: Applications to optimized trading,"
+33823,"Statistical mechanics of neocortical interactions. EEG dispersion relations,"
+33895,"A promising genetic algorithm approach to job-shop scheduling, rescheduling, and open-shop scheduling problems."
+33904,Stochastic hillclimbing as a baseline method for evaluating genetic algorithms.
+33907,A genetic algorithm for the set partitioning problem.
+34082,Reference classes and multiple inheritances.
+34257,A self-adjusting dynamic logic module.
+34263,An Efficient Transformation for Implementing Two-Layer FeedForward Neural Networks.
+34266,"A VLSI Implementation of a Parallel, Self-Organizing Learning Model,"
+34315,(1997) Gaussian pro cesses for Bayesian classification via hybrid Monte Carlo.
+34355,N.T. (1995) Prior Knowledge and the Creation of Virtual Examples for RBF Networks.
+34708,Learning to represent codons: A challenge problem for constructive induction.
+34961,Comparing methods for refining certainty-factor rule-bases.
+34979,and P.M. Long. Apple tasting and nearly one-sided learning.
+35061,Evolving networks: Using the genetic algorithm with connectionist learning.
+35070,The RISE system: Conquering without separating.
+35335,Parallel gradient distribution in unconstrained optimization.
+35343,"""Serial and Parallel Backpropagation 18 References Convergence Via Nonmonotone Perturbed Minimization,"""
+35490,A Model-Based Approach to Blame Assignment in Design.
+35778,Context-specific independence in Bayesian networks.
+35797,Proben1: A set of neural network benchmark problems and benchmarking rules.
+35852,Generalization and scaling in reinforcement learning.
+35854,"and P.M. Long. Characterizations of learnability for classes of f0; :::; ng-valued functions. To appear,"
+35863,Learning functions in k-DNF from reinforcement.
+35905,"Equivalence and reduction of hidden Markov models,"
+35922,Mean field theory for sigmoid belief networks.
+36131,Kanazawa Adaptive probabilistic networks.
+36140,Error-correcting output codes: A general method for improving multiclass inductive learning programs.
+36145,Generating accurate and diverse members of a neural-network ensemble.
+36162,"Bumptrees for Efficient Function, Constraint, and Classification Learning,"
+36167,Exploiting Model Uncertainty Estimates for Safe Dynamic Control Learning.
+36620,Towards a better understanding of memory-based and bayesian classifiers.
+36802,The data association problem when monitoring robot vehicles using dynamic belief networks.
+37483,Learning approximate control rules of high utility.
+37541,Parity: the problem that won\'t go away.
+37879,"(1997) Variational methods for inference and estimation in graphical models. Unpublished doctoral dissertation,"
+37884,Hidden Markov decision trees.
+37888,Stochastic simulation algorithms for dynamic probabilistic networks.
+37998,"Combining Top-down and Bottom-up Techniques in Inductive Logic Programming,"
+38000,Inducing logic programs without explicit negative examples.
+38205,Competitive environments evolve better solutions for complex tasks.
+38480,Learning to achieve goals.
+38537,"Bayesian Statistics 4,"
+38722,Learning probabilistic automata with variable memory length.
+38771,"Improving the quality of automatic DNA sequence assembly using fluorescent tracedata classifications. In States, D.J.,"
+38829,From Design Experiences to Generic Mechanisms: Model-Based Learning in Analogical Design.
+38839,"A Model of Creative Understanding,"
+38845,Opportunistic Reasoning: A Design Perspective.
+38846,"Explaining Serendipitous Recognition in Design,"
+39124,The utility of feature weighting in nearest-neighbor algorithms.
+39126,Toward optimal feature selection.
+39127,Estimating attributes: Analysis and extension of relief.
+39130,Average-case analysis of a nearest neighbour algorithm.
+39131,Oblivious decision trees and abstract cases.
+39165,Efficient learning of selective Bayesian network classifiers.
+39199,Unsupervised learning by convex and conic coding.
+39210,Pattern analysis and synthesis in attractor neural networks.
+39403,Auto-exploratory av-erage reward reinforcement learning.
+39474,"Simulated annealing for hard satisfiability problems. In, Workshop Notes from the 1993 DIMACS Challenge. FINDING HARD INSTANCES OF THE SATISFIABILITY PROBLEM 17"
+39890,A theory of inferred causation.
+39904,Performance Prediction of Large MIMD Systems for Parallel Neural Network Simulations.
+40124,MacKay (1995). Probabilistic networks: new models and new methods.
+40125,Neal (1997). Monte Carlo Implementation of Gaussian Process Models for Bayesian Regression and Classification.
+40131,Comparison of neural net and conventional techniques for lighting control.
+40135,"""Refining PID controllers using neural networks,"""
+40151,"Hoeffding Races: Accelerating Model Selection Search for Classification and Function Approximation,"
+40583,Wavelet Tresholding via a Bayesian Approach.
+40605,Nonlinear wavelet shrinkage with Bayes rules and Bayes factors.
+40886,Generalisation performance of backpropagation learning on a syllabification task.
+40922,An optimal weighting criterion of case indexing for both numeric and symbolic attributes.
+41216,"""A simple algorithm that discovers efficient perceptual codes,"" in Computational and Psychophysical Mechanisms of Visual Coding,"
+41417,"Case-based Acquisition of User Preferences for Solution Improvement in Ill-Structured Domains,"
+41666,Separating formal bounds from practical performance in learning systems.
+41714,"Cliff (1993). ""Issues in evolutionary robotics,"" From Animals to Animats 2 (Ed."
+41732,Emergent control and planning in an autonomous vehicle.
+42156,"""Models of Parallel Adaptive Logic,"""
+42207,Asking questions to minimize errors.
+42209,"""Learning unions of two rectangles in the plane with equivalence queries"","
+42221,Composite geometric concepts and polynomial predictability.
+42847,Power system security margin prediction using radial basis function networks.
+42848,Evolving Fuzzy Prototypes for Efficient Data Clustering.
+43165,Natural language grammatical inference: A comparison of recurrent neural networks and machine learning methods.
+43186,"""Learning Feature-based Semantics with Simple Recurrent Networks,"""
+43639,"Field, ""Natural image statistics and efficient coding"","
+43698,Dirichlet mixtures: A method for improving detection of weak but significant protein sequence homology. COS.
+44017,Learning decision lists using homogeneous rules.
+44121,"""Factor graphs and algorithms,"""
+44368,"""Using Problem Generators to Explore the Effects of Epistasis,"""
+44455,Har-vey (1993) Evolving Visually Guided Robots.
+44514,The observer\'s paradox: Apparent computational complexity in physical systems.
+45052,Bayesian model averaging.
+45061,Bias and the quantification of stability.
+45188,"A bound on the error of Cross Validation using the approxima-tion and estimation rates, with consequences for the training-test split."
+45189,An experimental and theoretical comparison of model selection methods.
+45212,Gain adaptation beats least squares.
+45533,Priority ASOCS.
+45599,Grounding robotic control with genetic neural net-works.
+45603,Symbiotic Evolution of Neural Networks in Sequential Decision Tasks.
+45605,"""Learning and evolution in neural networks,"""
+46079,A sequential niche technique for multimodal function optimization.
+46431,"Growing Simpler Decision Trees to Facilitate Knowledge Discovery,"
+46452,Incremental reduced error pruning.
+46468,A statistical approach to decision tree modeling.
+46470,On the Boosting Ability of Top-Down Decision Tree Learning Algorithms.
+46476,"A counter example to the stronger version of the binary tree hypothesis,"
+46491,constructive induction of M-of-N concepts for discriminators in decision trees.
+46500,Learning complex boolean functions : Algorithms and applications.
+46501,Decision graphs an extension of decision trees.
+46536,Goal-directed Classification Using Linear Machine Decision Trees.
+46547,Constructing conjunctive tests for decision trees.
+46887,(1991) Learning Polynomial functions by feature Construction.
+47570,Justification structures for document reuse.
+47682,Martinez (1993). Using Precepts to Augment Training Set Learning.
+47683,An Incremental Learning Model for Commonsense Reasoning.
+47684,An Efficient Metric for Heterogeneous Inductive Learning Applications in the Attribute-Value Language.
+47839,Algorithms for partially observable markov decision processes.
+48066,(1998) Pruning decision trees with misclassification costs.
+48075,"(1997) Adaptive fraud detection. Data Mining and Knowledge Discovery,"
+48550,Identification and control of nonlinear systems using neural network models: Design and stability analysis.
+48555,Feedback stabilization using two-hidden-layer nets.
+48764,Incremental evolution of complex general behavior.
+48766,Discovering complex Othello strategies through evolutionary neural networks.
+48768,(in press). Evolving Neural Networks to Play Go.
+48781,Optimal and asymptotically optimal equi-partition of rectangular domains via stripe decomposition.
+49482,Topography and ocular dominance: A model exploring positive correla-tions.
+49660,Feature subset selection as search with probabilistic estimates.
+49720,Bayesian Experimental Design: A Review.
+49753,Bayesian Design of Experiments for the Linear Model.
+49811,Estimating the accuracy of learned concepts.
+49843,"Fossil: A robust relational learner""."
+49844,A comparison of pruning methods for relational concept learning.
+49847,Top-down pruning in relational learn-ing.
+49895,The origins of Inductive Logic Programming: A prehistoric tale.
+50336,Computing upper and lower bounds on likelihoods in intractable networks.
+50337,Jordan (1996b). Recursive algorithms for approximating proba-bilities in graphical models.
+50354,Backpropagation can give rise to spurious local minima even for networks without hidden layers.
+50381,Training algorithms for hidden Markov models using entropy based distance functions.
+50807,Unsupervised learning with the soft-means algorithm.
+50838,"""Clustering learning tasks and the selective cross-task transfer of knowledge"","
+50980,(1996) Parametric design problem solving.
+51045,"Experiments with a regression-based causal induction algorithm. EKSL memo number 94-33,"
+51049,"Causal inference, path analysis, and recursive structural equations models."
+51052,A statistical semantics for causation.
+51180,On the learnability and usage of acyclic probabilistic finite automata.
+51831,"Using Prior Knowledge in a NNDPA to Learn Context-Free Languages,"
+51834,Representing and restructuring domain theories: A constructive induction approach.
+51866,Bias-driven revision of logical domain theories.
+51879,"""Combining Connectionist and Symbolic Learning to Refine Certainty Factor Rule Bases,"""
+51909,Automated refinement of first-order horn-clause domain theories.
+51934,"optimize, analyze, repeat (SOAR): Application of neural network tools to ECG patient monitoring."
+52000,"RADIAL BASIS FUNCTIONS: L p -Approximation orders with scattered centres, Preprint. APPROXIMATION FROM PERTURBED SHIFTS 35"
+52003,"Approximation by scattered shifts of a radial basis function,"
+52007,"An upper bound on the approximation power of principal shift-invariant spaces,"
+52515,Unsupevised learning of distributions on binary vectors using two-layer networks.
+52784,An empirical evaluation of bagging and boosting.
+52835,On biases estimating multi-valued attributes.
+52847,Rule-based machine learning methods for function prediction.
+53942,Simplifying decision trees: A survey.
+54129,Strongly Typed Genetic Programming.
+54131,"An Analysis of Genetic Programming,"
+54132,Causality in genetic programming.
+54550,Analysis and empirical studies of derivational analogy.
+54844,A Model of Bias Learning.
+55403,"R.S. and Imam, I.F. On Learning Decision Structures."
+55770,The case for cases: a call for purity in case-based reasoning.
+55801,Within the letter of the law: planning among multiple cases.
+55968,"""Reinforcement learning in the multi-robot domain"","
+56112,"Grefenstette (1990). ""Simulation-assisted learning by competition: Effects of noise differences between training model and target environment,"""
+56115,Improving tactical plans with genetic algorithms.
+56119,Using a genetic algorithm to learn strategies for collision avoidance and local navigation.
+56167,Refining conversational case libraries.
+56708,Alecsys and the autonomouse: Learning to control a real robot by distributed classifier systems.
+56709,"""Genetic and Non-Genetic Operators in Alecsys,"""
+57119,Finding opponents worth beating: Methods for competitive co-evolution.
+57764,"""Inductive Learning by Selection of Minimal Complexity Representations,"""
+57773,Scheduling and mapping: Software pipelining in the presence of structural hazards.
+57922,A note on learning from multiple--instance examples.
+57932,"A comparison of dynamic reposing and tangent distance for drug activity prediction,"
+57948,PAC learning axis-aligned rectangles with respect to product distributions from multiple-instance examples.
+58268,"The Expandable Split Window Paradigm for Exploiting Fine-Grain Parallelism,"
+58436,Intelligent model selection for hillclimbing search in computer-aided design.
+58453,"""Intelligent Gradient-Based Search of Incompletely Defined Design Spaces""."
+58454,Ellman. Learning prototype-selection rules for case-based iterative design.
+58540,Explanation-based learning and reinforcement learning: A unified approach.
+58552,"Hampshire (1992), A Differential Theory of Learning for Statistical Pattern Recognition with Connectionist Models,"
+58758,"Job Shop Scheduling with Genetic Algorithms,"
+59045,Prediction games and arcing algorithms.
+59244,Explaining anomalies as a basis for KB refinement.
+59626,General bounds on statistical query learning and PAC learning with noise via hypothesis boosting.
+59715,"""Genetic Programming Exploratory Power and the Discovery of Functions,"""
+59772,Serial and parallel multicategory discrimination.
+59798,Pattern recognition via linear programming: Theory and application to medical diagnosis.
+60159,CuPit | a parallel language for neural algorithms: Language reference and tutorial.
+60169,"A parallel programming model for irregular dynamic neural networks. In W.K. Giloi,"
+60170,Connection pruning with static and adaptive pruning schedules.
+60560,"Globally convergent inexact Newton methods,"
+60682,Dynamically adjusting concepts to accommodate changing contexts.
+61069,Tracking the red queen: Measurements of adaptive progress in co-evolutionary simulations.
+61073,Evolution of Homing Navigation in a Real Mobile Robot.
+61312,Evolutionary wanderlust: Sexual selection with directional mate preferences.
+61417,An Efficient Subsumbtion Algorith for Inductive Logic Programming.
+62274,A comparison of new and old algorithms for a mixture estimation problem.
+62329,"Automatic Definition of Modular Neural Networks. Adaptive Behavior,"
+62333,"Robust Sound Localization: An Application of an Auditory Perception System for a Humanoid Robot,"
+62347,Embodiment and manipulation learning process for a humanoid hand.
+62389,"""New roles for machine learning in design,"""
+62417,Free energy coding.
+62607,Generalization of Clauses under Implication.
+62634,"""A Study in Program Response and the Negative Effects of Introns in Genetic Programming,"""
+62676,Nonsmooth dynamic simulation with linear programming based methods.
+62718,An enhancer for reactive plans.
+63477,Efficient feature selection in conceptual clustering.
+63486,"""Evaluation and Selection of Biases in Machine Learning,"""
+63549,A practical Monte Carlo implementation of Bayesian learning.
+63812,FLARE: Induction with Prior Knowledge.
+63832,"Schultz (1994). ""An evolutionary approach to learning in robots,"" Machine Learning Workshop on Robot Learning,"
+63835,A heuristic approach to the discovery of macro-operators.
+63915,Learning the past tense of english verbs: the symbolic pattern associators vs. connectionist models.
+63931,Combining FOIL and EBG to speedup logic programs.
+64271,"(1992) Generic Teleological Mechanisms and their Use in Case Adaptation,"
+64319,Improved noise-tolerant learning and generalized statistical queries.
+64484,Learning from an automated training agent.
+64519,"Utilization Filtering: a method for reducing the inherent harmfulness of deductively learned knowledge,"
+65057,Abduction as belief revision.
+65074,"Rank-based systems: A simple approach to belief revision, belief update, and reasoning about evidence and actions."
+65212,Bayesian training of backpropagation networks by the hybrid monte carlo method.
+65650,Predicting nearly as well as the best pruning of a decision tree.
+65653,Pessimistic Decision Tree Pruning Based on Tree Size.
+66556,"""The Schema Theorem and Price\'s Theorem,"""
+66563,"An experimental analysis of schema creation, propagation and disruption in genetic programming."
+66564,Genetic programming with one-point crossover.
+66594,Automatic Parameter Selection by Minimizing Estimated Error.
+66596,"``Beyond Correlation: Bringing Artificial Intelligence to Event Data,\'\' International Interactions,"
+66751,A polynomial-time algorithm for the phylogeny problem when the number of character states is fixed.
+66782,Using qualitative models to guide inductive learning.
+66794,Automated decomposition of model-based learning problems.
+66805,On genetic algorithms.
+66809,Reinforcement learning by probability matching.
+66982,Learning generative models with the up-propagation algorithm.
+66986,Learning continuous attractors in recurrent networks.
+66990,Generative models for discovering sparse distributed representations.
+67245,"Priming, perceptual reversal, and circular reaction in a neural network model of schema-based vision,"
+67246,VISOR: Schema-based scene analysis with structured neural networks.
+67292,"DeVeaux Radial Basis Functions for Process Control,"
+67415,On the learnability of discrete distributions.
+67584,"(1992) ""Hyperparameter estimation in Dirichlet process mixture models,"" ISDS Discussion Paper #92-A03,"
+67633,"Brian ""Case-based Planning with a High-Performance Parallel Memory,"""
+68115,Combining Inductive Learning with Prior Knowledge and Reasoning.
+68224,Invariant face and object recognition in the visual system.
+68463,"Cost-Sensitive Feature Reduction Applied to a Hybrid Genetic Algorithm,"
+68495,PAC-learning PROLOG clauses with or without errors.
+68505,On learning conjunctions with malicious noise.
+69198,"Learning complex, extended sequences using the principle of history compression."
+69284,"An overview of genetic algorithms: Part 1, fundamentals."
+69296,"""Measures for performance evaluation of genetic algorithms,"""
+69392,Forecasting electricity demand using a mixture of nonlinear experts.
+69397,Dynamical selection of learning algorithms.
+69418,(1995) Constructive Algorithms for Hierachical Mixtures of Experts.
+70281,"""Extracting tree-structured representations of trained networks,"""
+70441,Case-based seeding for an interactive crisis response assistant.
+70442,Learning to Predict User Operations for Adaptive Scheduling.
+70444,A framework of knowledge acquisition and iterative revision for schedule improvement and reactive repair.
+70520,"""Using Local Trajectory Optimizers to Speed Up Global Optimization in Dynamic Programming,"""
+70970,Evolution of non-deterministic incremental algorithms as a new approach for search in state spaces.
+71336,"Computation and Psychophysics of Senso-rimotor Integration,"
+71736,"(1998) ""Sequential importance sampling for nonparametric Bayes models: The next generation"","
+71904,"""Free energy minimization algorithm for decoding and cryptanalysis"","
+72056,Mbp on t0: mixing floating- and fix-point formats in bp learning.
+72101,Constructive learning of recurrent neural networks.
+72406,A comparison of direct and model-based reinforcement learning.
+72805,Profile-driven instruction level parallel scheduling with application to super blocks.
+72908,Applications of a logical discovery engine.
+73119,A defect in Dempster-Shafer theory.
+73146,A Bayesian approach to learning Bayesian networks with local structure.
+73162,"""Causal diagrams for experimental research,"""
+73323,A Case-based Approach to Reactive Control for Autonomous Robots.
+73327,D.B. Leake. Modeling Case-based Planning for Repairing Reasoning Failures.
+73712,"Approximation from shift-invariant subspaces of L 2 (IR d ), CMS TSR #92-2,"
+73972,Improving Competence by Integrating Case-Based Reasoning and Heuristic Search.
+74427,A self-organizing binary decision tree for incrementally defined rule based systems.
+74698,An event-based abductive model of update.
+74700,Iterated revision and minimal revision of conditional beliefs.
+74749,Probably approximately optimal satisfic-ing strategies.
+74821,Regression shrinkage and selection via the lasso.
+74920,Some remarks on Scheiblechner\'s treatment of ISOP models.
+74921,A characterization of monotone unidimensional latent variable models.
+74937,"A survey of theory and methods of invariant item ordering. To appear,"
+74975,Towards more creative case-based design systems.
+75121,(192). The Utility of Knowledge in Inductive Learning.
+75318,"Input to state stabilizability of nonlinear systems. in preparation. [10] , A smooth converse Lyapunov theorem in a form suitable for various results on control design."
+75674,Exloration bonuses and dual control.
+75691,Semilinear predictability minimization produces well-known feature detectors.
+75693,Reinforcement learning with self-modifying policies.
+75694,"Shifting inductive bias with success-story algorithm, adaptive Levin search, and incremental self-improvement."
+75695,Unsupervised discrimination of clustered data via optimization of binary information gain.
+75969,Employing linear regression in regression tree leaves.
+75972,"`Overcoming the myopia of inductive learning algorithms with relieff\',"
+75983,"""An analytical framework for local feedforward networks,"""
+77108,Construction of phylogenetic trees.
+77112,"A six-point condition for ordinal matrices,"
+77438,The BATmobile: Towards a Bayesian automated taxi.
+77515,"Long. Prediction, learning, uniform convergence, and scale-sensitive dimensions,"
+77758,On estimation of a probability density function and mode.
+77826,Merge Strategies for Multiple Case Plan Replay.
+77829,Rationale-supported mixed-initiative case-based planning.
+78508,"Canonical momenta indicators of financial markets and neocortical EEG,"
+78511,"Genetic Algorithms and Very Fast Reannealing: A Comparison,"
+78549,P.L. (1995) Path-integral evolution of chaos embedded in noise:
+78552,"Statistical mechanics of combat with human factors,"
+78555,"Statistical mechanics of nonlinear nonequilibrium financial markets,"
+78557,"and T.M. Barnhill, Application of statistical mechanics methodology to term-structure bond-pricing models,"
+78994,Adaptive tuning of numerical weather prediction models: Randomized GCV in three and four dimensional data assimilation.
+79809,MML and Bayesianism: similarities and differences.
+79817,Bayesian and information-theoretic priors for Bayesian network parameters.
+80491,"""The parallel projection operators of a nonlinear feedback system,"""
+80515,On the computation of the induced L 2 norm of single input linear systems with saturation.
+80656,"Perceptual Development and Learning: From Behavioral, Neurophysiological and Morphological Evidence to Computational Models."
+81350,Learning to use selective attention and short-term memory in sequential tasks.
+81714,"Evolving representations of design cases and their use in creative design, Preprints Computational Models of Creative Design."
+81722,"Emergent behaviour in co-evolutionary design,"
+82087,"(1997b) Probabilistic Modeling for Combinatorial Optimization,"
+82090,"(1997) MIMIC: Finding Optima by Estimating Probability Densities,"
+82098,Hill Climbing with Learning (An Abstraction of Genetic Algorithm).
+82664,"Learning Adaptation Strategies by Introspective Reasoning about Memory Search,"
+82666,Goal-Driven Learning.
+82920,"""A Survey of Evolutionary Strategies,"""
+83449,Context-based similarity applied to retrieval of relevant cases.
+83461,DLAB: A declarative language bias formalism.
+83725,Explanations of empirically derived reactive plans.
+83746,"Experiments with the cascade-correlation algorithm. Microcomputer Applications,"
+83826,Redish. Beyond the Cognitive Map: Contributions to a Computational Neu-roscience Theory of Rodent Navigation.
+83847,Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: a theory.
+84020,Classifiers: A theoretical and empirical study.
+84021,Learning Concept Classification Rules Using Genetic Algorithms.
+84459,Rieger (1996). Learning concepts from sensor data of a mobile robot.
+84695,Nonlinear component analysis as a kernel eigenvalue problem.
+85299,Learning by error-driven decomposition.
+85324,The optimal number of learning samples and hidden units in function approximation with a feedforward network.
+85352,"""Evolution in Time and Space: The Parallel Genetic Algorithm."" In Foundations of Genetic Algorithms,"
+85449,A hypothesis-driven constructive induction approach to expanding neural networks.
+85452,Constructive induction using a non-greedy strategy for feature selection.
+85688,Finding new rules for incomplete theories: Explicit biases for induction with contextual information.
+86258,"""The weighted majority algorithm"","
+86359,"Evolving Optimal Populations with XCS Classifier Systems,"
+86840,Learning active classifiers.
+86923,"Asymptotic stabilization implies feedback stabilization,"
+87363,Automated synthesis of computational circuits using genetic programming.
+87417,"""Using Modeling Knowledge to Guide Design Space Search""."
+87482,A multi-chip module implementation of a neural network.
+87915,On the complexity of conditional logics.
+88356,Learning limited dependence Bayesian classifiers.
+89308,Focusing Construction and Selection of Abductive Hypotheses.
+89335,Utilising explanation to assist the refinement of knowledge-based systems.
+89416,Rational belief revision (preliminary report).
+89547,Rigorous learning curve bounds from statistical mechanics.
+90470,"""The Automated Mapping of Plans for Plan Recognition,"""
+90655,A Transformation for Implementing Localist Neural Networks.
+90888,"GAL : Networks that grow when they learn and shrink when they forget,"
+91038,Learning stochastic feedforward networks.
+91581,Finding overlapping distributions with MML.
+91852,Model-Based Learning of Structural Indices to Design Cases.
+91853,Innovation in Analogical Design: A Model-Based Approach.
+91975,Learning curves bounds for Markov decision processes with undiscounted rewards.
+92065,Adaptive regularization.
+92589,Learning Bayesian networks using feature selection.
+93273,Noise-tolerant parallel learning of geometric concepts.
+93318,Discovering Structure in Multiple Learning Tasks: The TC Algorithm.
+93320,A hybrid model for learning sequential decision making.
+93555,Multiple network systems (MINOS) modules: Task division and module discrimination.
+93755,Learning one-dimensional geometric patterns under one-sided random misclassification noise.
+93923,Inductive constraint logic and the mutagenesis problem.
+94229,Symbolic representation of neural networks.
+94416,Efficient theta-subsumption based on graph algorithms.
+94639,"Data Structures and Genetic Programming,"
+94641,Complexity Compression and Evolution.
+94713,Update rules for parameter estimation in bayesian networks.
+94953,Rates of convergence of approximation by translates. A.I.
+95188,"Kritik: An early case-based design system. In Maher, M.L. & Pu,"
+95198,"Creative design: reasoning and understanding. In Leake, D.B."
+95225,Learning arithmetic read-once formulas.
+95435,Incremental methods for computing bounds in partially observable Markov decision processes.
+95579,Hierarchical reinforcement learning with the MAXQ value function decomposition.
+95586,Roles of macro-actions in accelerating reinforcement learning.
+95588,Reinforcement learning with hierarchies of machines.
+95589,Planning with closed-loop macro actions.
+95594,Scaling reinforcement learning algorithms by learning variable temporal resolution models.
+95597,"(in preparation) ""Between MDPs and semi-MDPs: learning, planning, and representing knowledge at multiple temporal scales."""
+95642,"""Case-based Reactive Navigation: A case-based method for on-line selection and adaptation of reactive control parameters in autonomous robotic systems"","
+95718,Developments in probabilistic modelling with neural networks| ensemble learning.
+95719,Choice of basis for the Laplace approximation.
+96335,Geometry in learning.
+96845,"""Evolution-based Discovery of Hierarchical Behaviors,"""
+96847,Generality versus size in genetic programming.
+96851,"""Balancing Accuracy and Parsimony in Genetic Programming,"""
+97377,Induction of one-level decision trees.
+97390,"On the Virtues of Parameterized Uniform Crossover,"
+97645,"""A genetic algorithm for the assembly line balancing problem"","
+97892,Correcting imperfect domain theories: A knowledge-level analysis.
+98693,A study of crossover operators in genetic programming.
+98698,Adaptive strategy selection for concept learning.
+99023,"A fast txed-point algorithm for independent component analysis,"
+99025,Neuronal goals: Efficient coding and coincidence detection.
+99030,"""The Nonlinear PCA learning rule and signal separation mathematical analysis""."
+100197,Neural networks and statistical models.
+100701,M.L. (1996) Design by Interactive Exploration Using Memory-Based Techniques.
+100935,User\'s Guide to the PGAPack Parallel Genetic Algorithm Library Version 0.2.
+100961,Adaptive parameter pruning in neural networks.
+101143,Issues in goal-driven explanation.
+101145,"Abduction, experience, and goals: A model of everyday abductive explanation."
+101261,Optimality and domination in repeated games with bounded players.
+101263,Efficient algorithms for learning to play repeated games against computationally bounded adversaries.
+101660,Extraction of meta-knowledge to restrict the hypothesis space for ILP systems.
+101662,Learning from positive data.
+101811,Page. A learnability model for universal representations.
+102061,Simulating quadratic dynamical systems is Pspace-complete.
+102406,Learning sparse perceptrons.
+102879,Learning under persistent drift.
+102884,Robust Trainability of Single Neurons.
+102938,A Neural Architecture for a High-Speed Database Query System.
+102939,A Neural Network Architecture for Syntax Analysis.
+103430,Input to state stabilizability for parameterized families of systems.
+103482,"Trading spaces: computation, representation and the limits of learning."
+103515,The royal road for genetic algorithms: fitness landscapes and genetic algorithm performance.
+103528,Adapter: an integrated diagnostic system combining case-based and abductive reasoning.
+103529,On the usefulness of re-using diagnostic solutions.
+103531,A performance model for knowledge-based systems.
+103537,Discovering structure in continuous variables using Bayesian networks.
+103543,"Markov chain Monte Carlo methods based on ""slicing"" the density function."
+104840,An optimized theory revision module.
+105057,"Bias, variance, and error correcting output codes for local learners."
+105856,Vapnik-Chervonenkis dimension of neural nets. The Handbook of Brain Theory and Neural Networks (M.
+105865,"Statistical ideas for selecting network architectures. Invited Presentation,"
+105899,A mixture model system for medical and machine diagnosis.
+106590,"Accounting for context in plan recognition, with application to traffic monitoring."
+107177,Learning to order things.
+107251,Continuous-valued Xof-N attributes versus nominal Xof-N attributes for constructive induction: a case study.
+107252,A comparison of constructive induction with different types of new attribute.
+107569,"""Using generative models for handwritten digit recognition"","
+108047,Strongly typed genetic programming in evolving cooperation strategies.
+108962,"""Bucket elimination: A unifying framework for probabilistic inference,"""
+108963,"""Topological parameters for time-space tradeoff,"""
+108974,Global conditioning for probabilistic inference in belief networks.
+108983,Exploiting causal independence in Bayesian network inference.
+109323,"""Estimating Bayes factors via posterior simulation with the Laplace-Metropolis estimator,"""
+110041,Generation gaps revisited.
+110162,Case-based similarity assessment: Estimating adaptability from experience.
+110163,Learning to integrate multiple knowledge sources for case-based reasoning.
+110164,A case study of case-based CBR.
+111676,Goal-based explanation evaluation.
+111770,Efficient estimation for the Cox model with interval censoring.
+111866,On Learning from Noisy and Incomplete Examples.
+112099,Massively parallel matching of knowledge structures.
+112378,Data-oriented methods for grapheme-to-phoneme conversion.
+112787,Structure oriented case retrieval. Fourth German Workshop on Case-Based Reasoning: System Development and Evaluation (pp.
+112813,REPRO: Supporting flowsheet design by case-based retrieval.
+114189,Searching for dependencies in bayesian classifiers.
+114308,The role of forgetting in learning.
+114966,"A Next Generation Neurally Based Autonomous Road Follower,"
+115188,Inversion in time.
+116021,"Improving Generalization with Active Learning,"
+116081,(1995) Induction of decision trees using RELIEFF.
+116084,"(1995) Linear space induction in first order logic with RELIEFF,"
+116087,"(1995) Discretization of continuous attributes using ReliefF,"
+116512,(1993) Presynaptic and postsynatic competition in models for the development of neuromuscular connections.
+116528,Selection of Relevant Features in Machine Learning.
+116545,Duplication of coding segments in genetic programming.
+116552,"Empirical studies of the genetic algorithm with non-coding segments,"
+116553,A survey of intron research in genetics.
+116790,Sequential update of Bayesian network structure.
+117315,Evolving cooperation strategies.
+117316,A simulation of adaptive agents in a hostile environment.
+117328,Functional representation as design rationale.
+118079,The Neural Network House: An overview.
+118259,"Emergent Hierarchical Control Structures: Learning Reactive/Hierarchical Relationships in Reinforcement Environments,"
+118260,"Learning Hierarchical Control Structures for Multiple Tasks and Changing Environments,"
+118424,"Routing in Optical Multistage Interconnection Networks: a Neural Network Solution,"
+118435,"D.M. Chiarulli, Predictive Control of Opto-Electronic Reconfigurable Interconnection Networks using Neural Networks,"
+118436,"D.M. Chiarulli, On-Line Prediction of Multiprocessor Memory Access Patterns,"
+118558,Predictive Q-routing: A memory-based reinforcement learning approach to adaptive traffic control.
+118559,On--line adaptation of a signal predistorter through dual reinforcement learning.
+118682,Learning Goal Oriented Bayesian Networks for Telecommunications Management.
+118873,Constructive neural network learning algorithms for multi-category classification.
+119686,Analysis of decision boundaries generated by constructive neural network learning algorithms.
+119712,Feature subset selection using a genetic algorithm.
+119761,"Learning from examples, agent teams and the concept of reflection."
+119956,"A.C. Tsoi, A.D. Back, ""Function approximation with neural networks and local methods: bias, variance and smoothness"","
+120013,From isolation to cooperation: An alternative view of a system of experts.
+120039,"R.M. Cameron-Jones (1994), Exploring a Framework for Instance Based Learning and Naive Bayesian Classifiers,"
+120084,An Efficient Computational Model of Human Visual Attention.
+120817,Control of selective visual attention:
+121792,Discrete-time transitivity and accessibility: analytic systems.
+123556,"Backpropagation Separates when Perceptrons Do,"
+123825,"Growing Cell Structures A Self-Organizing Network for Unsupervised and Supervised Learning,"
+124064,An upper bound on the loss from approximate optimal value functions.
+124224,"Behavior near zero of the distribution of GCV smoothing parameter estimates for splines,"
+124296,Investigating the value of a good input representation.
+124734,On learning visual concepts and DNF formulae.
+124828,"""Ensemble training: Some recent experiments with postal zip data,"""
+124952,"Efficient Inference in Bayes Nets as a Combinatorial Optimization Problem,"
+126128,DNA sequence classification using compression-based induction.
+126793,Geyer. Markov chain Monte Carlo maximum likelihood.
+126867,a platform for emergencies management systems.
+126868,"""Planning in a Complex Real Domain"","
+126909,"(1997) ""Analysis of a non-reversible Markov chain sampler"","
+126912,Continuous sigmoidal belief networks trained using slice sampling.
+126920,Auxilliary variable methods for Markov chain Monte Carlo with applications.
+126926,"(1995) ""Suppressing random walks in Markov chain Monte Carlo using ordered overrelaxation"","
+126927,Convergence Rates of Markov Chains.
+127033,"""Learning robot behaviors using genetic algorithms,"""
+127940,TRAINREC: A System for Training Feedforward and Simple Recurrent Networks Efficiently and Correctly.
+128202,Learning rules with local exceptions.
+128203,Learning hierarchical rule sets.
+128383,"""Using case-based reasoning to acquire user scheduling preferences that change over time,"""
+128540,"""Adapting control strategies for situated autonomous agents."""
+129042,Towards improving case adaptability with a genetic algorithm.
+129045,Dynamic constraint satisfaction using case-based reasoning techniques.
+129287,Phoneme probability estimation with dynamic sparsely connected artificial neural networks.
+129558,A Goal-Based Approach to Intelligent Information Retrieval.
+129896,Accounting for model uncertainty in survival analysis improves predictive performance (with Discussion). In Bayesian Statistics 5 (J.M.
+129897,The out-of-bootstrap method for model averaging and selection.
+131042,Efficient implementation of Gaussian processes for interpolation.
+131117,"Learning sequential tasks by incrementally adding higher orders,"
+131122,"The parallel transfer of task knowledge using dynamic learning rates based on a measure of relatedness, Connection Science Special Issue: Transfer in Inductive Systems,"
+131315,Hierarchical recurrent networks for long-term dependencies.
+131317,Long short-term memory.
+131318,Flat minima. Neural Computation.
+132806,Using marker-based genetic encoding of neural networks to evolve finite-state behaviour.
+132821,The parameter-ized complexity of sequence alignment and consensus.
+133550,"""State observability in recurrent neural networks,"""
+133553,"""Sample complexity for learning recurrent perceptron mappings,"""
+133563,Neural nets as systems models and controllers.
+133566,"""Recurrent neural networks: Some systems-theoretic aspects,"" in Dealing with Complexity: a Neural Network Approach (M."
+133567,"""Complete controllability of continuous-time recurrent neural networks,"""
+133615,"The Estimation of Probabilities in Attribute Selection Measures for Decision Structure Induction in Proceeding of the European Summer School on Machine Learning,"
+133628,Learning to classify sensor data.
+134060,Efficient reinforcement learning.
+134128,Learning to play the game of chess.
+134199,Using Markov chains to analyze GAFOs.
+134219,An overview of evolutionary computation. Euro.
+134307,Generalized update: Belief change in dynamic settings.
+134314,Modeling belief in dynamic systems. Part I: foundations.
+134315,Belief revision: A critique.
+134316,A qualitative Markov assumption and its implications for belief change.
+134320,"Qualitative probabiliteis for default reasoning, belief revision, and causal modeling."
+135130,"""Using a genetic algorithm to learn behaviors for autonomous vehicles,"""
+135464,Unsupervised learning procedures for neural networks.
+135765,"""Specialization of Recursive Predicates"","
+135766,"""Specialization of Logic Programs by Pruning SLD-Trees"","
+135798,a classification methodology for ill-structured domains.
+136665,"""The Complexity of Real-time Search."""
+136766,Learning goal-decomposition rules using exercises.
+136767,Learning Horn definitions using equivalence and membership queries.
+136768,Theory-guided empirical speedup learning of goal-decomposition rules.
+137130,On the semantics of belief revision systems.
+137359,"Constructive Induction from Data in AQ17-DCI: Further Experiments , Reports of the Machine Learning and Inference Laboratory,"
+137380,"Discovering Representation Space Transformations for Learning Concept Descriptions Combining DNF and M-of-N Rules, Workshop on Constructive Induction and Change of Representation,"
+137790,On the sample complexity of finding good search strategies.
+137849,Inference in model-based cluster analysis.
+137868,On Bayesian analysis of mixtures with an unknown number of components.
+137873,Stacked density estimation.
+137956,Control Flow Prediction for Dynamic ILP Processors.
+139547,On centering neural network weight updates.
+139738,A Radial Basis Function Approach to Financial Time Series Analysis.
+139865,"Vytopil. Design Issues Towards PREENS, a Parallel Research Execution Environment for Neural Systems."
+140005,Exploiting the omission of irrelevant data.
+140569,"""Using Fourier-neural recurrent networks to fit sequential input/output data,"""
+141160,"""Linear systems with sign-observations,"""
+141171,"""Characterizing the input-to-state stability property for set stability,"""
+141324,An analysis of evolutionary programming.
+141342,Dynamic parameter encoding for Genetic Algorithms.
+141347,(1992b) Adapting crossover in a genetic algorithm.
+141596,MacKay (1997b). Variational Gaussian Process Classifiers.
+141868,Abstraction considered harmful: lazy learning of language processing.
+142268,Plausibility measures and default reasoning.
+143323,"Empirical Analysis of the General Utility Problem in Machine Learning,"
+143476,Experimenting with the Cheeseman-Stutz evidence approximation for predictive modeling and data mining.
+143676,A Neural Architecture for Content as well as Address-Based Storage and Recall:
+143801,Data exploration with reflective adaptive models.
+144212,"""Evolving non-trivial behaviors on real robots: a garbage collecting robot"","
+144330,Utilizing prior concepts for learning.
+144408,"M.C., ""Neural Net Architectures for Temporal Sequence Processing,"" Predicting the future and understanding the past (Eds."
+144679,Learning when reformulation is appropriate for iterative design.
+144701,"Evolution of mapmaking ability: Strategies for the evolution of learning, planning, and memory using genetic programming."
+145134,Computing second derivatives in feed-forward networks: a review.
+145176,Bayesian nonlinear modelling for the prediction competition.
+145215,Memory-based lexical acquisition and processing.
+145315,"editors. Machine Learning, Meta-Reasoning and Logics."
+145384,Improving generalization for temporal difference learning:
+147870,Annealed competition of experts for a segmentation and classification of switching dynamics.
+148170,Learning monitoring strategies: A difficult genetic programming application.
+148341,"Rana ""Nonlinearity, Hyperplane Ranking and the Simple Genetic Algorithms"","
+148399,"DNF if you can\'t learn \'em, teach \'em: An interactive model of teaching."
+149139,The minimum feature set problem.
+149669,"Kanazawa, Reasoning about Time and Probability,"
+151430,PAC-learning recursive logic programs: Efficient algorithms.
+151708,Polychotomous regression.
+152219,A connectionist symbol manipulator that discovers the structure of context-free languages.
+152226,An incremental interactive algorithm for regular grammar inference.
+152227,Learning dfa from simple examples.
+152483,An Analysis of the Effects of Neighborhood Size and Shape on Local Selecrion Algorithms.
+152731,Subsymbolic case-role analysis of sentences with embedded clauses.
+153063,Bayesian forecasting and dynamic models.
+153598,Analytical mean squared error curves in temporal difference learning.
+154023,"""A Class of Algorithms for Identification in H 1 "", preprint."
+154047,"Optimal and Robust Identification Under Bounded Disturbances"","
+154134,Simple selection of utile control rules in speedup learning.
+154982,"Bias, variance and prediction error for classification rules."
+155158,Learning Singly Recursive Relations from Small Datasets.
+155277,"""On Functional Relation between Recognition Error and Class-Selective Reject,"""
+155736,Worst-case quadratic loss bounds for on-line prediction of linear functions by gradient descent.
+155738,Long. The learning complexity of smooth functions of a single variable.
+156794,Correlated action effects in decision-theoretic regression.
+156977,The EM algorithm for mixtures of factor analyzers.
+157401,Convergence-zone episodic memory: Analysis and simulations.
+157761,On the complexity of function learning.
+157805,Learning from queries and examples with tree-structured bias.
+158098,An alternative Markov property for chain graphs.
+158172,Space-efficient inference in dynamic probabilistic networks.
+158614,Efficient algorithms for identifying relevant features.
+158812,"Synchronization and desynchronization in a network of locally coupled Wilson-Cowan oscillators,"
+159084,"Best Probabilities of Activation and Performance Comparisons for Several Designs of Kanerva\'s SDM (Sparse Distributed Memory), 1995."
+159085,"Some comments on the Information Stored in Sparse Distributed Memory,"
+159897,Robust analysis of bayesian networks with finitely generated convex sets of distributions.
+160705,Receptive fields for vision: from hyperacuity to object recognition.
+160732,The Bayesian Approach to Tree-Structured Regression.
+161221,A local learning algorithm for dynamic feedforward and recurrent networks.
+162075,A VLIW/SIMD Microprocessor for Artificial Neural Network Computations.
+162080,CLONES: A Connectionist Layerd Object-oriented NEtwork Simulator.
+162664,Construction of Bayesian Network Structures from Data: a Brief Survey and an Efficient Algorithm.
+163235,Fast numerical integration of relaxation oscillator networks based on singular limit solutions.
+164885,Analyzing GAs using Markov models with semantically ordered and lumped states.
+166420,Improved boosting algorithms using confidence-rated predictions.
+166825,"A pre-processing model for integrating CBR and prototype-based neural networks,"
+166989,An O(n log log n ) learning algorihm for DNF under the uniform distribution.
+167205,Space-Time Scheduling of Instruction-Level Parallelism on a Raw Machine.
+167656,"""Boosting and Naive Bayesian Learning."""
+167670,Error-based and entropy-based discretization of continuous features.
+168332,"""A comparison of Q-learning and classifier systems,"" in From animals to animats 3 (D."
+168410,"A modular Q-learning architecture for manipulator task decomposition,"
+168958,New inexact parallel variable distribution algorithms.
+169279,"Smoothing spline models with correlated random errors,"
+169280,"A flexible model for human circadian rhythms,"
+170338,Learning team strategies with multiple policy-sharing agents: A soccer case study.
+170798,Learning problem-solving concepts by reflecting on problem solving.
+171225,How lateral interaction develops in a self-organizing feature map.
+171954,Efficient algorithms inverting evolution.
+173863,Learning belief networks in the presence of missing values and hidden variables.
+173884,Revising Bayesian networks parameters using backpropagation.
+174418,Improving the accuracy and speed of support vector machines.
+174425,"Incorporating Invariances in Support Vector Learning Machines,"
+175256,Adaptive global optimization with local search.
+175291,Actively searching for an effective neural-network ensemble.
+175548,"""Neural networks with quadratic VC dimension,"""
+175576,PAC learning of one-dimensional patterns.
+175909,Towards formalizations in case-based reasoning for synthesis.
+177115,"`Case Retrieval Nets and cognitive modelling\',"
+177993,Generalist and specialist behavior due to individual energy extracting abilities.
+177998,"From complex environments to complex behaviors. Adaptive Behavior,"
+178209,a stochastic approach to Inductive Logic Programming.
+178718,An indexed bibliography of genetic algorithms:
+178727,Representing trees in genetic algorithms.
+179180,Rochester Connectionist Simulator.
+179702,"""Further facts about input to state stabilization,"""
+179706,"""Changing supply functions in input/state stable systems,"""
+180187,A Comparison of Full and Partial Predicated Execution Support for ILP Processors.
+180301,"Estimating Functions of Probability Distributions from a Finite Set of Samples. Part 1: Bayes Estimators and the Shannon Entropy.,"
+180373,Street. Cancer diagnosis and prognosis via linear-programming-based machine learning.
+180399,An inductive learning approach to prognostic prediction.
+181782,Hierarchical explanation-based reinforcement learning.
+182093,Hierarchical evolution of neural networks.
+182094,How to evolve autonomous robots:
+184157,Efficient dynamic-programming updates in partially observable Markov decision processes.
+184918,"""Self-organizing process based on lateral inhibition and synaptic resource redistribution,"""
+187260,Participating in Instructional Dialogues: Finding and Exploiting Relevant Prior Explanations.
+187354,Applying ILP to diterpene structure elucidation from 13C NMR spectra.
+188318,Avoiding overfitting with BP-SOM.
+188471,"""Adaptive State Space Quantization for Reinforcement Learning of Collision-Free Navigation"","
+189566,From knowledge bases to decision models.
+189571,Probabilistic evaluation of counterfactual queries.
+189572,Counterfactuals and policy analysis in structural models.
+189574,Theory refinement on Bayesian networks.
+189577,Chain graphs for learning.
+189620,Logarithmic-time updates and queries in probabilistic networks.
+189623,Localized partial evaluation of belief networks.
+189655,"""Testing Identifiability of Causal Effects,"""
+189708,A model for projection and action.
+189721,Sensitivities: an alternative to conditional probabilities for Bayesian belief networks.
+189774,Causal inference from indirect experiments.
+189856,State-space abstraction for anytime evaluation of probabilistic networks.
+190697,Analysis of neurocon-trollers designed by simulated evolution.
+190698,Evolutionary Design of Neural Architectures.
+190706,"""Selection for wandering behavior in a small robot,"""
+191216,Ridge regression in dual variables.
+191222,"Support vector machines, reproducing kernel Hilbert spaces and the randomized GACV."
+191404,Exploiting structure in policy construction.
+192734,"Preventing ""overfitting"" of Cross-Validation data."
+192850,Characterizing the generalization performance of model selection strategies.
+192870,A Provably Convergent Dynamic Training Method for Multilayer Perceptron Networks.
+193347,Selective eager execution on the polypath architecture.
+193352,Limited Dual Path Execution.
+193354,Threaded multiple path execution.
+193742,Q-learning with hidden-unit restarting.
+193918,A unifying view of some training algorithms for multilayer perceptrons with FIR filter synapses.
+193931,What size neural network gives optimal generalization? Convergence properties of backpropagation.
+193932,Lessons in neural network training: Overfitting may be harder than expected.
+194223,Bayesian unsupervised learning of higher order structure.
+194609,Prediction of human mRNA donor and acceptor sites from the DNA sequence.
+194617,Finding genes in human DNA with a hidden Markov model.
+194645,Integrating motor schemas and reinforcement learning.
+195150,Naive bayesian classifier within ILP-R. In L.
+195361,On step-size and bias in temporal-difference learning.
+195792,"""Adding Learning to the Cellular development of Neural Networks: Evolution and the Baldwin Effect,"""
+197054,Evolving obstacle avoidance behavior in a robot arm.
+197452,Best-first model merging for dynamic learning and recognition.
+197783,Training methods for adaptive boosting of neural networks for character recognition.
+198443,Analysis of Genetic Representations and Operators With Applications in Evolutionary Design of Neural Architectures.
+198653,Information Filtering: Selection Mechanisms in Learning Systems.
+198866,Using knowledge of cognitive behavior to learn from failure.
+199571,Rapid quality estimation of neural network input representations.
+200480,Cbet: a case base exploration tool.
+200630,Replicability of neural computing experiments.
+202520,Using Bayesian networks for incorporating probabilistic a priori knowledge into Boltzmann machines.
+202522,"Constructing computationally efficient Bayesian models via unsupervised clustering. In Probabilistic BIBLIOGRAPHY 91 Reasoning and Bayesian Belief Networks,"
+202639,Predicting sunspots and exchange rates with connectionist networks.
+203646,Rohwer (1996). Bayesian regression filters and the issue of priors.
+205192,Principal and independent components in neural networks-recent developments.
+205196,van der Minimisation methods for training feed-forward neural networks.
+206259,Asynchronous modified policy iteration with single-sided updates.
+206371,"A genetic algorithm for 3-D path planning of a mobile robots,"
+206524,Combining data mining and machine learning for effective user profiling.
+207395,A Functional Theory of Creative Reading.
+208345,planning in an open-textured domain.
+210309,"Metric Entropy and Minimax Risk in Classification,"
+210871,"""Coevolving High Level Representations,"""
+210872,"""An Evolutionary Algorithm That Constructs Recurrent Neural Networks"","
+211432,"In defense of C4.5: Notes on learning one-level decision trees,"
+211875,Protein structure prediction: Selecting salient features from large candidate pools.
+211906,Generalizations of the bias/variance decomposition for prediction error.
+212097,Uncertain inferences and uncertain conclusions.
+212107,Possible world partition sequences: A unifying framework for uncertain reasoning.
+212777,Inductive Learning of Characteristic Concept Descriptions from Small Sets of Classified Examples.
+212930,"""The functional transfer of knowledge for coronary artery disease diagnosis"","
+213246,"Growing Layers of Perceptrons: Introducing the Extentron Algorithm,"
+213279,Constraint tangent distance for online character recognition.
+214472,"A computer scientist\'s view of life, the universe, and everything."
+215912,A method for identifying splice sites and translational start sites in eukaryotic mRNA.
+216877,Constructing intermediate concepts by decomposition of real functions.
+216878,"""Pattern Theoretic Learning"","
+217115,On the sample complexity of noise-tolerant learning.
+217139,Unifying empirical and explanation-based learning by modeling the utility of learned knowledge.
+217852,Learning search-control heuristics for logic programs: Applications tospeed-up learning and languageacquisitions.
+217984,Analyzing phase transitions in high-dimensional self-organizing maps.
+218410,Explanation based learning: A comparison of symbolic and neural network approaches.
+218666,An implementation and experiment with the nested generalized exemplars algorithm.
+218682,How to retrieve relevant information?.
+219218,Monte Carlo approach to Bayesian regression modeling. In: Computer Intensive Methods in Control and Signal Processing.
+219239,Auer and P.M Long. Simulating access to hidden information while learning.
+219446,Resonance and the perception of musical meter.
+219976,"""Rule based database integration in HIPED:"
+220420,"Smith (1995), ""A genetic approach to the quadratic assignment problem"","
+221302,Task-oriented Knowledge Acquisition and Reasoning for Design Support Systems.
+226698,Back. The Gamma MLP for speech phoneme recognition.
+227178,"""Evolving Visual Routines,"""
+227286,"""Space-frequency localized basis function networks for nonlinear system estimation and control,"""
+228990,"""A New Algorithm for DNA Sequence Assembly"","
+228992,"A Structured Pattern Matching Approach to Shotgun Sequence Assembly,"
+229635,Evolutionary neural networks for value ordering in constraint satisfaction problems.
+230300,Learning in continuous domains with delayed rewards.
+230879,"""Adaptive source separation without prewhitening,"""
+230884,"Blind separation of delayed sources based on information maximisation,"
+231198,A fixed size storage O(n 3 ) time complexity learning algorithm for fully recurrent continually running networks.
+231249,Dynamic hill climbing: Overcoming the limitations of optimization techniques.
+232605,Techniques for extracting instruction level parallelism on MIMD architectures.
+232606,a multiple instruction stream computer.
+232860,On the computational utility of consciousness.
+233106,TJ (1993). Egocentric spatial representation in early vision.
+235670,Improving Software Pipelining With Unroll-and-Jam.
+235678,Stage scheduling: A technique to reduce the register requirements of a modulo schedule.
+235679,Optimum modulo schedules for minimum register requirements.
+235683,Minimizing register requirements under resource-constrained rate-optimal software pipelining.
+235776,Recursive Automatic Algorithm Selection for Inductive Learning.
+236759,Neural network approach to blind separation and enhancement of images.
+237376,Characterizing rational versus exponential learning curves.
+237489,A non-linear information maximisation algorithm that performs blind separation.
+237521,Competitive anti-hebbian learning of invariants.
+238099,Mining for causes of cancer: Machine learning experiments at various levels of detail.
+238401,"`Classification by pairwise coupling\',"
+239800,(1995a) Ensemble learning and evidence maximization.
+239810,A model-based approach for supporting dialogue inferencing in a conversational case-based reasoner.
+239829,Improving minority class prediction using case-specific feature weights.
+240321,Nonlinear gated experts for time series: Discovering regimes and avoiding overfitting.
+240791,networks that develop their own teaching input.
+241133,On the worst-case analysis of temporal-difference learing algorithms.
+241821,Convergence and New Operations in SDM.
+242637,"A Delay Damage Model Selection Algorithm for NARX Neural Networks,"
+242663,Two algorithms for inducing structural equation models from data.
+243274,"Parallel Training of Simple Recurrent Neural Networks,"
+243483,A comparison of crossover and mutation in genetic programming.
+245288,Learning the peg-into-hole assembly with a connectionist reinforcement technique.
+245955,Robust performance and adaptation using receding horizon H 1 control of time varying systems.
+246618,A comparison of the fixed and floating building block representation in the genetic algorithm.
+248119,Learning boxes in high dimension.
+248395,Why Error Measures are Sub-Optimal for Training Neural Network Pattern Classifiers.
+248425,A comparison of selection schemes used in genetic algorithms.
+248431,"Genetic algorithms, selection schemes, and the varying effects of noise."
+248823,Learning roles: Behavioral diversity in robot teams.
+249421,On the perception of time as phase: Toward an adaptive-oscillator model of rhythm.
+249858,Learning in hybrid noise environments using statistical queries.
+250566,Feature Selection by Means of a Feature Weighting Approach.
+251756,(1995) Cellular Encoding Applied to Neurocontrol Proc.
+252715,"R.S. EMERALD: An Integrated System of Machine Learning and Discovery Programs to Support Education and Experimental Research. Reports of the Machine Learning and Inference Laboratory, MLI 93-10, Machine Learning and Inference Laboratory,"
+252725,R.S. Learning Evolving Concepts Using Partial Memory Approach.
+253762,"Neal (1991). Bayesian mixture modelling by Monte Carlo simulation,"
+253971,Fool\'s gold: Extracting finite state machines from recurrent network dynamics.
+254923,A genetic prototype learner.
+255233,An explanation-based approach to improve retrieval in case-based planning.
+255628,"""Efficient Visual Search: A Connectionist Solution,"""
+256106,Classification of underwater mammals using feature extraction based on time-frequency analysis and bcm theory.
+258259,Error-stabilty properties of generalized gradient-type algorithms.
+259126,Feature selection methods for classifications. Intelligent Data Analysis:
+259701,Modeling Hybrid Genetic Algorithms.
+259702,Evaluating Evolutionary Algorithms.
+259772,Reasoning with portions of precedents.
+260121,The wake-sleep algorithm for unsupervised neural networks.
+260979,Separability is a learner\'s best friend.
+261040,Case-based learning: Beyond classification of feature vectors.
+262108,"""Steepest descent adaptation of min-max fuzzy If-Then rules"","
+262121,Genetic algorithms for automated tuning of fuzzy controllers: A transportation application.
+262178,"""Genetic Evolution of the Topology and Weight Distribution of Neural Networks"","
+263069,Hyperplane Ranking in Simple Genetic Algorithms.
+263279,"Data Analysis Using Simulated Breeding and Inductive Learning Methods,"
+263482,"Learning by Refining Algorithm Sketches,"
+263486,"Architecture for Iterative Learning of R ecursive Definitions,"
+263498,"Automatic design of cellular neural networks by means of genetic algorithms: finding a feature detector,"
+263553,A generalized approximate cross validation for smoothing splines with non-Gaussian data.
+264347,Relative loss bounds for multiclass regression problems.
+264556,"""A correlation-based motion detection chip,"""
+265203,"A Package if Domain Independent Subroutines for Implementing Classifier Systems in Arbitrary, User-Defined Environments."" Logic of Computers Group,"
+267003,Integrating learning in a neural network.
+267824,Learning to control fast-weight memories: An alternative to recurrent nets.
+270085,(to appear). When gravity fails: local search topology.
+270456,Regression with gaussian processes.
+270600,Generalization by Controlled Expansion of Examples.
+272345,CBR on Semi-structured Documents:
+272720,A new metric-based approach to model selection.
+273152,"""Evolutionary Module Acquisition,"""
+273949,"""On the effect of analog noise on discrete-time analog computations"","
+277263,Machine learning applied to diagnosis of sport injuries.
+278394,Asymptotic statistical theory of overtraining and cross-validation.
+278403,Fast pruning using principal components.
+280876,Principal Curve Clustering with Noise.
+282700,"Learning linear, sparse, factorial codes."
+284023,"Neural network constructive algorithms: Trading generalization for learning efficiency? Circuits,"
+284025,The Pandemonium system of reflective agents.
+284414,"BRACE: A Paradigm For the Discretization of Continuously Valued Data,"
+285675,Parsimonious least norm approximation.
+285687,"Mathematical programming in data mining. Data Mining and Knowledge Discovery,"
+286500,The artificial evolution of behaviour.
+286513,Specialization under social conditions in shared environments.
+286562,Hidden Markov model analysis of motifs in steroid dehydrogenases and their homologs.
+287787,"A User Friendly Workbench for Order-Based Genetic Algorithm Research,"
+288107,Martinez (1993.) The Design and Evaluation of a Rule Induction Algorithm.
+289085,"""The third generation of neural network models,"""
+289088,"""Critical points for least-squares problems involving certain analytic functions, with applications to sigmoidal nets,"""
+289779,Adaptation of genetic algorithms for engineering design optimization.
+289780,"""Using case based learning to improve genetic algorithm based design optimization"","
+289781,"""A genetic algorithm for continuous design space search"","
+289885,Learning in neural networks with Bayesian prototypes.
+289945,Some topics in neural networks and control.
+292277,"""Evolving Control Structures with Automatically Defined Macros,"""
+293271,Toward an ideal trainer.
+293285,"Why experimentation can be better than ""perfect guidance""."
+293974,Tractable inference for complex stochastic processes.
+294030,MDL learning of probabilistic neural networks for discrete problem domains.
+294126,"(1990) : Knowledge Acquisition via Knowledge Integration. In Current Trends in Knowledge Acquisition . Wielinga,B."
+294145,Least generalizations and greatest specializations of sets of clauses.
+294239,Faster Learning in Multi-Layer Networks by Handling Output Layer Flat-Spots.
+299195,Learning to Play Games from Experience: An Application of Artificial Neural Networks and Temporal Difference Learning.
+299197,TD Learning of Game Evaluation Functions with Hierarchical Neural Architectures.
+300071,"""Coupled Hidden Markov Models for Complex Action Recognition,"""
+300806,Learning in Boltzmann trees.
+302545,A modification to evidential probability.
+307015,Optimal mutation rates in genetic search.
+307336,Blue. Optimal decision trees.
+307656,Plateaus and plateau search in boolean satisfi-ability problems: When to give up searching and start again.
+308003,Relational knowledge discovery in databases.
+308232,Extending theory refinement to m-of-n rules.
+308529,Colombetti (1994b). The role of the trainer in reinforcement learning.
+308920,C.M. (1997). A graphical characterization of lattice conditional independence models.
+309476,Adaptive mixtures of probabilistic transducers.
+310530,Integrating reading and creativity: A functional approach.
+310653,Robustness analysis of bayesian networks with global neighborhoods.
+310742,(1995) Bayesian graphical models for intelligent tutoring systems.
+312409,A successive linear programming approach to consistent initialization and reinitialization after discontinuities of differential algebraic equations.
+314459,Input-Output Analysis of Feedback Loops with Saturation Nonlinearities.
+315266,Speech recognition with dynamic Bayesian networks.
+315789,"A transformation system for interactive reformulation of design optimization strategies. Fully accepted to Research in Engineering Design,"
+318071,Knowledge representation for supporting decision model formulation in medicine.
+318187,Advantages of decision lists and implicit negatives in inductive logic programming.
+321004,The ecology of echo.
+321861,"""Gambling in a rigged casino: the adversarial multi-armed bandit problem,"""
+323128,Error-Correcting Output Coding Corrects Bias and Variance In Machine Learning:
+325314,Estimating alertness from the EEG power spectrum.
+325497,Residual q-learning aplied to visual attention.
+328370,Expectation-Based Selective Attention.
+330148,Script recognition with hierarchical feature maps.
+330208,Finding compact and sparse-distributed representations of visual images.
+334153,Machine learning by function decomposition.
+335042,"""An efficient implementation of sigmoidal neural nets in temporal coding with noisy spiking neurons"","
+335733,The coevolution of mutation rates.
+337766,Using introspective reasoning to refine indexing.
+340075,"(1995) ""Comparison of Kernel Estimators, Perceptrons and Radial-Basis Functions for OCR and Speech Classification,"""
+340078,"(1994) ""Evaluation of Pattern Classifiers for Fingerprint and OCR Applications,"""
+340299,"Neural Network Applicability: Classifying the Problem Space,"
+341188,Szepesvari and M.L. Littman. A unified analysis of value-function-based reinforcement-learning algorithms.
+342802,Phonetic classification of TIMIT segments preprocessed with lyon\'s cochlear model using a supervised/unsupervised hybrid neural network.
+345340,Generalized Prioritized Sweeping.
+346243,Inductive bias in case-based reasoning systems.
+346292,"Hyperplane ""spin"" dynamics, network plasticity and back-propagation learning."
+348305,The effects of predicated execution on branch prediction.
+348437,Learning acyclic first-order horn sentences from entailment.
+350319,Presenting and analyzing the results of AI experiments: Data averaging and data snooping.
+350362,Improving Regressors using Boosting Techniques.
+350373,Error-correcting output coding corrects bias and variance.
+353541,Intelligent agents for Web-based tasks: An advice-taking approach.
+354004,Formal rules for selecting prior distributions: a review and annotated bibliography.
+358866,MML estimation of the von Mises concentration parameter.
+358884,The discovery of algorithmic probability: A guide for the programming of true creativity.
+358887,Single factor analysis by MML estimation.
+358894,"MML mixture mod-elling of Multi-state, Poisson, von Mises circular and Gaussian distributions."
+359067,Supporting conversational case-based reasoning in an integrated reasoning framework.
+360028,"Constructing New Attributes for Decision Tree Learning,"
+362926,A common lisp hypermedia server.
+365294,Multi-Time models for reinforcement learning. In ICML\'97 Workshop: The Role of Models in Reinforcement Learning.
+367312,A performance analysis of CNS on sparse connectionist networks.
+368431,Decision tree induction: How effective is the greedy heuristic? In Proc.
+368605,A Generalizing Adaptive Discriminant Network.
+368657,Categorical perception of emotional facial expressions: Computer models and human performance.
+370366,From data distributions to regularization in invariant learning.
+372862,Lookahead and discretization in ILP.
+375605,Computer evolution of buildable objects.
+375825,Double censoring: characterization and computation of the nonparametric maximum likelihood estimator.
+376704,Learning to classify observed motor behavior.
+377303,Evolving deterministic finite automata using cellular encoding.
+379288,"""Protein Sequencing Experiment Planning Using Analogy,"""
+380341,A hybrid projection proximal point algorithm.
+384428,Algebraic transformations of objective functions.
+385067,CBR for Document Retrieval The FAllQ Project.
+385251,"Application of Quantum Mechanical Properties to Machine Learning,"
+385572,Individual and collective prognostic prediction.
+387795,Design strategies for evolutionary robotics.
+389715,Constructing nominal X-of-N attributes.
+390693,Neural networks with real weights: analog computational complexity.
+390889,(in press). A hierarchical community of experts.
+390894,Jordan (1996). A variational approach to Bayesian logistic regression problems and their extensions.
+390896,(in press). Improving the mean field approximation via the use of mixture distributions.
+390922,(in press). A mean field learning algorithm for unsupervised neural networks.
+395075,Evolving neural networks with collaborative species.
+395540,Maximum likelihood and covariant algorithms for independent component analysis.
+395547,"Computation and Neural Systems,"
+395553,Mixtures of probabilistic principle component analysers.
+395725,Plate. Distributed Representations and Nested Compositional Structure.
+396412,Efficient learning in Boltzmann Machines using linear response theory.
+397488,Fast equi-partitioning of rectangular domains using stripe decomposition.
+397590,"""Inverting Implication with Small Training Sets"","
+399173,"Corporate memories as distributed case libraries. Submitted to CORPORATE MEMORY & ENTERPRISE MODELING track in KAW\'96,"
+399339,Comparison of action selection learning methods.
+399370,A portable parallel programming language for artificial neural networks.
+400356,"""Factor analysis using delta-rule wake-sleep learning"","
+400455,Categorical perception in facial emotion classification.
+400473,Ring. Sequence learning with incremental higher-order neural networks.
+408885,A collection of algorithms for belief networks.
+409255,"""Stabilization with saturated actuators, a worked example: F-8 longitudinal flight control,"""
+409725,A global unified resource requirements represen-tations.
+411005,Guessing can outperform many long time lag algorithms.
+411092,Learning Logical Exceptions in Chess.
+415693,Using real-valued genetic algorithms to evolve rule sets for classification.
+416455,Robo-shepherd: Learning complex robotic behaviors.
+416867,On the Power of Equivalence Queries.
+416964,"Distributed Patterns as Hierarchical Structures,"
+417017,Relating relational learning algorithms.
+421481,Bootstrapping functional M-estimators.
+423463,"and Sylvia Richardson (1995). Model selection for generalized linear models via GLIB, with application to epidemiology. In Bayesian Biostatistics (D.A."
+423816,"Minimum-perimeter domain assignment,"
+424540,"Some canonical properties of nonlinear systems, in Robust Control of Linear Systems and Nonlinear Control, M.A. Kaashoek,"
+427606,Biological Metaphor and the design of modular artificial neural networks.
+428610,"`Time series prediction using mixtures of experts,\'"
+429781,Mistake-driven learning in text categorization.
+429805,Resolving pp attachment ambiguities with memory based learning.
+430329,"Kalman, An Adaptive Neural Network Parser,"
+430574,Nonlinear resonance in neuron dynamics.
+430711,A mixture of experts model exhibiting prosopag--nosia.
+431206,Backfitting in smoothing spline ANOVA with application to historical global temperature data (thesis).
+436796,Some extensions of the k-means algorithm for image segmentation and pattern classification.
+440815,(1994) Change point and change curve modeling in stochastic processes and spatial statistics.
+444191,(1994) Automatic smoothing spline projection pursuit.
+444240,PLEASE: A prototype learning system using genetic algorithms.
+445938,Compositional modeling with dpns.
+446271,Mapping Bayesian networks to Boltzmann machines.
+446610,Coupled hidden markov models for modeling interacting processes.
+447224,(1996) A compression algorithm for probability transition matrices.
+447250,"""Introduction to radial basis function networks"","
+449841,"""Theory-Guided Induction of Logic Programs by Inference of Regular Languages"","
+458439,"(1994) ""PFSA Modelling of Behavioural Sequences by Evolutionary Programming"" in Stonier, R.J."
+459206,"Where does the good stuff go, and why? How contextual semantics influence expression structure in simple genetic programming."
+459213,Using a distance metric on genetic programs to understand genetic operators.
+459214,The impact of external dependency in genetic programming primitives. In D.B.
+459216,Neural programming and an internal reinforcement policy.
+463825,"On the Induction of Intelligible Ensembles,"
+466170,Deriving monotonic function envelopes from ob-servations.
+467383,Evolving Turing-complete programs for a register machine with self-modifying code.
+469504,BCM network develops orientation selectivity and ocular dominance from natural scenes environment.
+470511,Supporting combined human and machine planning: The Prodigy 4.0 User Interface Version 2.0 (Tech.
+481073,PAC adaptive control of linear systems.
+486840,Adaptation in constant utility nonstationary environments.
+502574,Automatic student modeling and bug library construction using theory refinement.
+503871,Growing neural networks.
+503877,Evolutionary programming and evolution strategies: Similarities and differences.
+503883,(1995) Genetic algorithms with multi-parent recombination.
+503893,An evolutionary approach to com-binatorial optimization problems.
+509233,A simpler look at consistency.
+509315,A computational view of population genetics.
+509379,Linden (1998). Model selection using measure functions.
+510715,Estimating dependency structure as a hidden variable.
+510718,Learning Bayesian networks from incomplete data.
+513189,Extended selection mechanisms in genetic algorithms.
+519318,Poole (1997). A constraint-based approach to preference elicitation and decision making.
+519353,Halpern (1997). Defining explanation in probabilistic systems.
+520471,"The Arguments of Newly Invented Predicates in ILP,"
+521183,Formalising the knowledge content of case memory systems.
+521207,A case base similarity framework.
+521251,A yardstick for the evaluation of case-based classifiers.
+521252,PAC analyses of a `similarity learning\' IBL al-gorithm.
+521269,"Bridge, D.G.: Similarity Metrics: A Formal Unification of Cardinal & Non-Cardinal Similarity Measures,"
+521855,Decision-theoretic foundations for causal reasoning.
+522338,"Explaining ""explaining away""."
+523010,The end of the line for a brain-damaged model of unilateral neglect.
+523394,(1996c) Feedback Models: Interpretation and Discovery.
+523574,A qualitative framework for probabilistic inference.
+529165,"``Gas Identification System using Graded Temperature Sensor and Neural Net Interpretation\'\',"
+531348,"Learning belief networks from data: an information theory based approach, forth coming. i Dataset1 has the underlying belief network described in the web page of Norsys Software Corp. Dataset2 has the underlying belief network used by David Heckerman. Dataset3 is generated by Gregory F. Cooper and Edward Herskovits. We generated dataset1 and dataset2 using a Monte Carlo technique. ii The CI tests are grouped by the cardinalities of conditionsets."
+531351,"An algorithm for Bayesian belief network construction from data,"
+545647,"Learning with Small Disjuncts,"
+552469,"On learning more concepts,"
+559804,On the testability of causal models with latent and instrumental variables.
+560936,"Montel carlo comparison of non-hierarchical unsupervised classifiers,"
+561238,S.F. Commonality and Genetic Algorithms.
+561364,Markov Chain Monte Carlo Model Determination for Hierarchical and Graphical Models.
+561568,Analysis of hospital quality monitors using hierarchical time series models.
+561581,"""Priors and Component Structures in Autoregressive Time Series,"""
+561582,"""Bayesian Inference on Periodic-ities and Component Spectral Structure in Time Series,"""
+561593,"""Filtering via Simulation: Auxiliary Particle Filters"","
+561595,"Exploratory Modelling of Multiple Non-stationary Time Series: Latent Process Structure & Decompositions,"" in Modelling Longitudinal and Spatially Correlated Data,"
+561610,"(1997a) Bayesian time series: Models and computations for the analysis of time series in the physical sciences. In Maximum Entropy and Bayesian Methods 15,"
+561611,"(1997b) Modelling and robustness issues in Bayesian time series analysis (with discussion). In Bayesian Robustness 2,"
+561613,"(1997) Studies of quality monitor time series: The V.A. hospital system,"
+561674,"(1997) ""Hierarchical mixture models in neurological transmission analysis,"""
+561789,"(1996) ""Bayesian analysis of mixtures of mixtures,"""
+561809,"(1996) ""Bayesian curve fitting using multivariate normal mixtures,"""
+562067,"(1992) Computing Bayesian nonparametric hierarchical models. ISDS Discussion Paper #92-A20,"
+562123,Comparison of Bayesian and neural net unsupervised classification techniques.
+562940,What online Machine Learning can do for Knowledge Acquisition.
+563613,Searls. Gene structure prediction by linguistic methods.
+566488,Representing physical and design knowledge in innovative engineering design.
+566653,Structural evaluation of analogies:
+566664,Making SME greedy and pragmatic.
+567005,"An unsupervised neural network for real-time, low-level control of a mobile robot: noise resistance, stability, and hardware implementation."
+567018,Representing rhythmic patterns in a network of oscillators.
+568045,"(1994) An application of ILP in music,"
+568857,Artificial evolution of visual control systems for robots.
+573535,"Fast and Simple Algorithms for Perfect Phylogeny and Triangulating Colored Graphs,"
+573553,On the Approximability of Numerical Taxonomy.
+573964,(1991) Global optimization by means of distributed evolution Genetic Algorithms in Engineering and Computer Science Editor J.
+573978,Evolutionary algorithms: Some very old strategies for optimization and adaptation.
+574009,Genetic programming for pedestrians.
+574264,"An evolutionary tabu search algorithm and the NHL scheduling problem,"
+574462,Genetic algorithm programming environments.
+574710,Learning decision strategies with genetic algorithms.
+575077,Generality and difficulty in genetic programming: Evolving a sort.
+575292,Representation and evolution of neural networks.
+575331,Genetic algorithms for vertex splitting in DAGs.
+575402,"When will a genetic algorithm outperform hill climbing? In Stephanie Forrest, editor,"
+575795,Adapting the evaluation space to improve global learning.
+576257,Genetic programming of minimal neural nets using occam\'s razor.
+576362,"Challenges in evolving controllers for physical robots. Robot and Autonomous Systems,"
+576691,Self-Adaption in Genetic Algorithms.
+576725,"How good are genetic algortihms at finding large cliques: an experimental study,"
+576795,Embedding of a sequential procedure within an evolutionary algorithm for coloring problems in graphs.
+576973,Control of Parallel Population Dynamics by Social-Like Behavior of GA-Individuals.
+577086,"Evolutionary Search and the Job Shop,"
+577227,Convergence analysis of canonical genetic algorithms.
+577331,Eiben and C.A. Schippers. Multi-parent\'s niche: n-ary crossovers on NK-landscapes.
+578306,A family of txed-point algorithms for independent component analysis.
+578309,Simple neuron models for independent component analysis.
+578337,"Signal separation by nonlinear Hebbian learning,"
+578347,Independent component analysis by general nonlinear hebbian-like learning rules.
+578365,"One-unit learning rules for independent component analysis,"
+578645,Entailment for specification refinement.
+578646,Type inheritance in strongly typed genetic programming.
+578649,Augmenting collective adaptation with a simple process agent.
+578650,Collective memory search.
+578669,Hybridized crossover-based search techniques for program discovery.
+578780,Towards automatic discovery of building blocks in genetic programming.
+578845,Induction and recapitulation of deep musical structure.
+578898,Clique detection via genetic programming.
+579008,Genetic programming and redundancy.
+579108,Collective Adaptation: The Sharing of Building Blocks.
+582139,Viewpoint invariant face recognition using independent component analysis and attractor networks.
+582343,Transferring and retraining learned information filters.
+582349,Maximum a posteriori classification of DNA structure from sequence information.
+582511,The problem with noise and small disjuncts.
+583318,Local selection.
+589923,"A case study in dynamic belief networks: monitoring walking, fall prediction and detection."
+590022,Fall diagnosis using dynamic belief networks.
+591016,First order regression: Application in real-world domains.
+591017,Producing More Comprehensible Models While Retaining Their Performance.
+592826,"`Machine learning in prognosis of the femoral neck fracture recovery\',"
+592830,"`Non-myopic attribute estimation in regression\',"
+592973,Dynamic training subset selection for supervised learning in genetic programming.
+592975,Tackling the boolean even n parity problem with genetic programming and limited-error fitness.
+592986,Small populations over many generations can beat large populations over few generations in genetic programming.
+592993,Context preserving crossover in genetic programming.
+592996,AN ANALYSIS OF HIERARCHICAL GENETIC PROGRAMMING.
+593022,"A distributed, component-based ge-netic programming system in C++. Research Note RN/96/2,"
+593060,Massively parallel genetic programming.
+593068,Rapidly reconfigurable field-programmable gate arrays for accelerating fitness evaluation in genetic programming.
+593091,A summary of research on parallel genetic algorithms.
+593104,Fitness causes bloat: Mutation.
+593105,A bibliography for genetic programming.
+593155,Cellular encoding for interactive evolutionary robotics.
+593201,Evolving optimal neural networks using genetic algorithms with Occam\'s razor.
+593209,Some steps towards a form of parallel distributed genetic programming.
+593210,"Discovery of symbolic, neuro-symbolic and neural networks with parallel distributed genetic programming."
+593240,Genetic programming with user-driven selection: Experiments on the evolution of algorithms for image enhancement.
+593248,Speeding up genetic programming: A parallel BSP implementation.
+593260,Evolving graphs and networks with edge encoding: Preliminary report.
+593328,"""Evolution of a time-optimal fly-to controller circuit using genetic programming,"""
+593329,"""Use of architecture-altering operations to dynamically adapt a three-way analog source identification circuit to accommodate a new source,"""
+593544,Toward simulated evolution of machine-language iteration.
+593559,"The GP-Music System: Interactive Genetic Programming for Music Composition,"
+593560,"B.E., ""Automated Fitness Raters for the GP-Music System,"""
+593813,Scheduling maintenance of electrical power transmission networks using genetic programming.
+593859,Price\'s theorem and the MAX problem.
+593921,Fitness causes bloat in variable size representations.
+593942,Why ants are hard.
+594011,The evolution of size in variable length representations.
+594025,Evolving a generalised behavior: Artificial ant problem revisited.
+594039,Hierarchical Learning with Procedural Abstraction Mechanisms.
+594047,A Hybrid GP/GA Approach for Co-evolving Controllers and Robot Bodies to Achieve Fitness-Specified Tasks.
+594119,"A Genetic Programming Approach to Strategy Optimization in the Extended Two-Dimensional Pursuer/Evader Problem,"
+594387,Evolving compact solutions in genetic programming: A case study.
+594483,"Jamshidi ""On Genetic Programming of Fuzzy Rule-Based Systems for Intelligent Control."""
+594511,"Performance enhanced genetic programming,"
+594543,"A methodology for processing problem constraints in genetic programming. Computers and Mathematics with Application,"
+594649,Effects of Occam\'s razor in evolving sigma-pi neural networks.
+594900,Genetic programming estimates of kol-mogorov complexity.
+595056,Using genetic programming to evolve board evaluation functions.
+595063,Improving the performance of evolutionary optimization by dynamically scaling the evolution function.
+595157,Investigating the generality of automatically defined functions.
+595193,Cultural transmission of information in genetic programming.
+596075,An architecture for goal-driven explanation.
+601462,Evolving globally synchronized cellular automata.
+601561,Applying machine learning to agricultural data.
+601567,Geometric comparison of classifications and rule sets.
+604073,Pruning with generalization based weight saliencies:
+606479,The evolution of communication schemes over continuous channaels.
+606647,"What makes a good co-evolutionary learning environment? Australian Journal of Intelligent Information Processing Systems,"
+608190,Evolving non-determinism: An inventive and efficient tool for optimization and discovery of strategies.
+608191,Incremental coevolution of organisms: A new approach for optimization and discovery of strategies.
+608292,De Jong and John J.
+608326,A sampling-based heuristic for tree search.
+610529,"""Visual information processing in primate cone pathways: Part I, a model,"""
+612306,Confidence Estimation for Speculation Control.
+613409,Efficient Nonparametric Estimation of Probability Density Functions.
+616336,Efficient instruction scheduling using finite state automata.
+617378,"N.Tishby Testing for Non linearity and Gaussianity in sustained portion of musical signals,"
+617575,Cortical activity flips among quasi-stationary states.
+621555,Selection of Distance Metrics and Feature Subsets for k-Nearest Neighbor Classifiers.
+626530,Belief maintenance with probabilistic logic.
+626531,Forecasting glucose concentration in diabetic patients using ignorant belief networks.
+626574,Belief maintenance in bayesian networks.
+626999,"""Tempering backpropagation networks: Not all weights are created equal"","
+627024,Early stopping | but when? In Orr and Muller [1].
+628458,"""Optimising Local Hebbian Learning: Use the ffi-rule""."
+628459,"CNN: a neural architecture that learns multiple transformations of spatial representations"","
+628500,"""Learning to avoid collisions: a reinforcement learning paradigm for mobile robot navigation"","
+628667,Generalizing in TD() learning.
+628668,On-line adaptive critic for changing systems.
+628751,"""Nested networks for robot control,"" in Neural Network Applications,"
+628764,Approximation with neural networks: Between local and global approximation.
+628766,Orthogonal incremental learning of a feedforward network.
+628815,Optimal attitude control of satellites by artificial neural networks: a pilot study.
+628888,"""Using many-particle decomposition to get a parallel self-organising map,"""
+630817,"Inferring sparse, overcomplete image codes using an efficient coding framework."
+630890,A neural model of the cortical representation of egocentric distance.
+631015,Theory of correlations in stochastic neural networks.
+631052,Objective functions for neural map formation.
+632796,Density estimation by wavelet thresholding.
+632874,"Minimax Bayes, asymptotic minimax and sparse wavelet priors. In Statistical Decision Theory and Related Topics, V,"
+632935,Wavelet methods for curve estimation.
+633030,Understanding waveshrink: Variance and bias estimation.
+633031,Waveshrink with semi-soft shrinkage functions.
+633081,M (1992a). Minimax risk over ` p -balls for l q loss.
+633585,Choice of thresholds for wavelet estimation of the log spectrum.
+633721,The stationary wavelet transform and some statistical applications.
+634902,A heuristic for improved genetic bin packing.
+634904,A parallel island model genetic algorithm for the multiprocessor scheduling problem.
+634938,A genetic algorithm for fragment allocation in a distributed database system.
+634975,Reducing disruption of superior building blocks in genetic algorithms.
+636098,NP-Completeness of Searches for Smallest Possible Feature Sets.
+636500,Predicting time series with support vector machines.
+636511,"""Comparing Support Vector Machines with Gaussian kernels to radial basis function classifiers,"""
+640617,"""Staged hybrid genetic search for seismic data imaging,"""
+641956,Adaptive noise injection for input relevance determination.
+641976,A comparison of some error estimates for neural network models.
+642593,Global self organization of all known protein sequences reveals inherent biological signatures.
+642621,Looking at Markov samplers through CUM-SUM path plots: a simple diagnostic idea.
+642641,(1993) Bayesian inference for agricultural field experiments.
+642681,Diagnosing convergence of Markov chain Monte Carlo algorithms.
+642798,Weak convergence and optimal scaling of random walk metropolis algorithms.
+642827,Decomposable Graphical Gaussian Model Determination.
+642847,G.O. (1997) A Total Variation Method for Diagnosing Convergence of MCMC Algorithms.
+642894,Rates of convergence of the Hastings and Metropolis algorithms.
+642920,A connectionist architecture with inherent systematicity.
+642930,A connectionist architecture for learning to parse.
+643003,"Estimating Ratios of Normalizing Constants for Densities with Different Dimensions,"
+643069,Markov chain Monte Carlo in practice: A roundtable discussion.
+643199,Mutation rates as adaptations.
+643221,Minorization conditions and convergence rates for Markov chain Monte Carlo.
+643239,Convergence of Gibbs sampler for a model related to James-Stein estimators.
+643485,"""Geometric Ergodicity of the Block Gibbs Sampler for a Simple Hierarchical Model."""
+643597,(1997) A nonparametric Bayesian approach to modelling nonlinear time series.
+643695,(1997) Simulation based Bayesian nonparametric regression methods.
+643734,"Engineering Multiversion Neural-Net Systems,"
+643735,"""Use of methodological diversity to improve neural network generalization,"""
+643777,"""Self-organizing experts,"""
+644093,Possible biases induced by MCMC convergence diagnostics.
+644334,"D.M. (1998) Convergence controls for MCMC algorithms, with applications to hidden Markov chains."
+644361,Perfect simulation of Harris recurrent Markov chains.
+644363,Exact simulation using Markov chains.
+644427,Outperforming the Gibbs sampler empirical estimator for nearest neighbour random fields.
+644441,(1997) MCMC Convergence Diagnostic via the Central Limit Theorem.
+644448,"G.O. and Sahu, S.K. (1997) Adaptive Markov chain Monte Carlo through regeneration."
+644470,An Adaptive Metropolis algorithm.
+644494,Self regenerative Markov chain Monte Carlo.
+644577,Geometric ergodicity and hybrid Markov chains.
+644843,"(1997) Perfect Simulation of some Point Processes for the Impatient User, Advances in Applied Probability, Stochastic Geometry and Statistical Applications,"
+645016,Extensions of Fill\'s algorithm for perfect simulation.
+645046,Exponential convergence of Langevin diffusions and their discrete approximations.
+645084,"Modelling risk from a disease in time and space,"
+645088,Hierarchical spatio-temporal mapping of disease rates.
+645452,An extension of Fill\'s exact sampling algorithm to non-monotone chains.
+645571,A note on the Dirichlet process prior in Bayesian nonparametric inference with partial exchangeability.
+645870,Exact transition probabilities for the independence Metropolis sampler.
+645897,On convergence rates of Gibbs samplers for uniform distributions.
+646195,"(1997b) Applications and extensions of MCMC in IRT: Multiple item types, missing data, and rated responses."
+646286,(1996) Rate of Convergence of the Gibbs Sampler by Gaussian Approximation.
+646289,(1997) Bayesian Estimation and Model Choice in the Item Response Models.
+646334,Self-targeting candidates for Hastings-Metropolis algorithms.
+646357,Geometric and subgeometric convergence of diffusions with given stationary distributions.
+646412,(1998) A new sequential simulated annealing method.
+646440,A reversible jump sampler for autoregressive time series.
+646809,Orgy in the computer: Multi-parent reproduction in genetic algorithms.
+646836,Raising GA performance by simultaneous tuning of selective pressure and recombination disruptiveness.
+646837,Back. An evolutionary heuristic for the minimum vertex cover prob-lem.
+646900,Evaluating and improving steady state evolutionary algorithms on constraint satisfaction problems.
+646913,Graph coloring with adaptive evolutionary algorithms.
+647315,Adapting crossover in evolutionary algorithms.
+647408,Every niching mehtod has its niche: Fitness sharing and implicit sharing compared.
+647413,Solving 3-SAT by GAs adapting constraint weights.
+647447,Performance of multi-parent crossover operators on numerical function optimization problems.
+648106,"(1995) Brightness perception, illusory contours, and corticogeniculate feedback."
+648112,3-D vision and figure-ground separation by visual cortex.
+648121,Synthetic aperture radar processing by a multiple scale neural system for boundary and surface representation.
+648232,"Vector associative maps: Unsupervised real-time error-based learning and control of movement trajectories,"
+648369,Toward a unified theory of spatiotemporal processing in the retina.
+649730,A growth algorithm for hypercubical output spaces in self-organizing feature maps.
+649731,Incremental grid growing: encoding high-dimensional structure into a two-dimensional feature map.
+649739,"""The LBG-U method for vector quantization An improvement over LBG inspired from neural networks,"""
+649944,"(1990b) : ""Knowledge Integration and Learning"","
+650807,"""Discontinuity in evolution: how different levels of organization imply pre-adaptation"","
+650814,Two is Better than One: a Diploid Genotype for Neural Networks.
+650834,(in preparation). Neural networks in an Artificial Life perspective
+653441,From Bayesian networks to causal networks.
+653628,"""The Predictability of Data Values"","
+654177,Rapid development of NLP modules with Memory-Based Learning.
+654326,Evolutionary training of clp-constrained neural networks.
+654339,Constraining of weights using regularities.
+654519,Evolutionary computation in air traffic control planning.
+656048,Learning control knowledge in models of expertise.
+656231,Learning control knowledge in KADS knowledge-based systems: Machine learning meets knowledge engineering.
+662250,Achieving super computer performance with a DSP array processor.
+662279,"`Adaptive tuning of numerical weather prediction models: simultaneous estimation of weighting, smoothing and physical parameters\',"
+662416,"Using smoothing spline anova to examine the relation of risk factors to the incidence and progression of diabetic retinopathy,"
+662572,Spatial-temporal analysis of temperature using smoothing spline ANOVA.
+671052,Task and spatial frequency effects on face specialization.
+671269,Predicting probability distributions: A connectionist approach.
+671293,Selecting input variables using mutual information and nonparamteric density estimation.
+672064,Kazlas and A.S. Weigend. (1995) Direct Multi-Step Time Series Prediction Using TD().
+672070,Evaluating neural network predictors by bootstrapping.
+672071,Predictions with confidence intervals (local error bars).
+675649,"""Modeling volatility using state space models"","
+675756,"A bootstrap evaluation of the effect of data splitting on financial time series,"
+675847,Nonlinear trading models through Sharpe Ratio maximization.
+682508,Representing aggregate belief through the competitive equilibrium of a securities market.
+682666,Multiagent reinforcement learning: Theoretical framework and an algorithm.
+682815,"""The Role of Development in Genetic Algorithms."""
+683294,Toward a market model for Bayesian inference.
+683355,Using qualitative relationships for bounding probability distributions.
+683360,Some varieties of qualitative probability.
+683404,Incremental tradeoff resolution in qualitative probabilistic networks.
+684372,Incremental model reference adaptive polynomial controllers network.
+684531,Eric (1997). Incremental Polynomial Controller Networks: two self-organising non-linear controllers.
+684972,Probabilistic principal component analysis.
+684986,Bishop (1997a). Hierarchical models for data visualization.
+686015,"""What is the best thing to do right now?"" : getting beyond greedy exploration\',"
+686030,"Active learning in multilayer perceptrons,"
+686061,"An algorithm for active data collection for learning|feasibility study with neural networks,"
+686532,Family-based homology detection via pairwise sequence comparison.
+686559,Parametrization studies for the SAM and HMMER methods of hidden Markov model generation.
+687401,Turing computability with neural nets.
+688361,Neural network implementation in SAS software.
+688824,`Balanced\' conductances may explain irregular cortical spiking.
+688849,Stable dynamic parameter adaptation.
+689152,"""Shattering all sets of k points in \'general position\' requires (k 1)=2 parameters"","
+689439,A reduced multipipeline machine description that preserves scheduling constraints.
+693143,A fast algorithm for the computation and enumeration of perfect phylogenies when the number of character states is fixed.
+694759,An Evolutionary Approach to Vector Quantizer Design.
+695284,The hardness of problems on thin colored graphs.
+696342,"Cichocki and Abed Meraim K.""A Blind Identification and Separation Technique via Multi-layer Neural Networks"" Proc."
+696343,"Cardoso.""On the performance of source separation algorithms"" In Proc."
+696345,"Recurrent neural networks for blind separation of sources,"
+696346,"""Local adaptive learning algorithms for blind separation of natural images"","
+703953,"""Convergence in norm for alternating expectation-maximization (em) type algorithms,"""
+708945,Massive data discrimination via linear support vector machines.
+709113,"""A Framework for Statistical Modeling of Superscalar Processor Performance"".Proc."
+709518,"""Regional stability of and ERS/JERS-1 classifier,"""
+711527,"""Application of ESOP Minimization in Machine Learning and Knowledge Discovery,"""
+711598,Pattern theoretic knowledge discovery.
+711994,"""Dynamical Behavior of Artifical Neural Networks with Random Weights,"" in Intelligent Engineering Systems Through Artificial Neural Networks,"
+714208,"A note on testing exogeneity of instrumental variables,"
+714256,A probabilistic calculus of actions.
+714260,Probabilistic evaluation of sequential plans from causal models with hidden variables.
+714289,"""Aspects of Graphical Models Connected With Causality,"""
+714748,"Causation, action, and counterfactuals."
+714879,The new challenge: From a century of statistics to an age of causation.
+714975,Using path diagrams as a structural equation modeling tool.
+733167,"""Soft vector quantization and the EM algorithm,"""
+733534,A Vector Microprocessor System.
+733576,"""Recognizing Handwritten Digit Strings Using Modular Spatio-temporal Connectionist Networks"","
+734406,A model of rapid memory formation in the hippocampal system.
+735303,"Differential Evolution - a Simple and Efficient Heuristic for Global Optimization over Continuous Spaces, Journal of Global Optimization,"
+735311,"On the Usage of Differential Evolution for Function Optimization,"
+737204,"""Object-Oriented Design of Parallel BP Neural Network Simulator and Implementation on the connection machine CM-5"","
+738941,An object-oriented connectionist simulator.
+739280,"A performance analysis of the CNS-1 on large, dense backpropagation networks."
+739707,Software for ANN training on a ring array processor.
+739816,"""Learning to Segment Images Using Dynamic Feature Binding,"""
+746058,All-to-all Broadcast on the CNS-1.
+751408,Blind separation of delayed and convolved sources.
+752684,"""Geometry of Early Stopping in Linear Networks"" In G."
+753047,"Alternative error bounds for the classifier chosen by early stopping,"
+753070,Similar classifiers and VC error bounds.
+753264,"Improved uniform test error bounds,"
+753265,"Validation of average error rate over classifiers,"
+754594,An object-based neural model of serial processing in visual multielement tracking in preparation.
+755082,Cluster-weighted modeling for time series prediction and characterization.
+755217,Active gesture recognition using partially observable markov decision processes.
+756061,Unsmearing visual motion: Development of long-range horizontal intrinsic connections.
+762980,"(1998) Modeling dynamic receptive field changes produced by intracortical microstimulation. In press,"
+763009,Generalization and exclusive allocation of credit in unsupervised category learning. Network:
+763010,(1997) Modeling dynamic receptive field changes in primary visual cortex using inhibitory learning.
+763181,A neural network model of visual tilt aftereffect.
+767763,"Partition-based uniform error bounds,"
+779960,"The Use of Neural Networks to Support ""Intelligent"" Scientific Computing."
+782486,Living in a partially structured environment: How to bypass the limitation of classical reinforcement techniques.
+785678,Self-nonself discrimination in a computer.
+787016,(1992) Genetic self-learning.
+801170,Guided crossover: A new operator for genetic algorithm based optimization.
+814836,Run-time versus compile-time instruction scheduling in superscalar (risc) processors: Performance and tradeoffs.
+815073,Constructive methods for designing compact feedforward networks of threshold units.
+815096,Maximizing the robustness of a linear threshold classifier with discrete weights. Network:
+817774,"The number of nucleotide sites needed to accurately reconstruct large evolutionary trees,"
+820661,Local quartet splits of a binary tree infer all quartet splits via one dyadic inference rule.
+820662,Inferring big trees from short quartets.
+824245,"Stimulus specific learning: a consequence of stimulus-specific experiments? Perception,"
+851968,Natural gradient descent for training multi-layer perceptrons.
+853114,"""Using Neural Networks to Identify Jets"", Nucl."
+853115,"""Finding Gluon Jets with a Neural trigger"","
+853116,"""Self-organizing Networks for Extracting Jet Features"","
+853118,"""On Langevin Updating in Multilayer Perceptrons"","
+853150,"""Pattern Discrimination Using Feedforward Networks: A Benchmark Study of Scaling Behavior"","
+853155,"""Mass Reconstruction with a Neural Network"","
+854434,Predicting lifetimes in dynamically allocated memory.
+884094,Estimating the square root of a density via compactly supported wavelets.
+892139,Using Communication to Reduce Locality in Distributed Multi-Agent Learning.
+899085,Speculative hedge: Regulating compile-time speculation against profile variations.
+899119,Task selection for a Multiscalar processor.
+907845,"Using the Grow-and-Prune Network to Solve Problems of Large Dimensionality,"
+911198,"""Centering neural network gradient factors"","
+917493,"HAUTUS M.L.J.Observability of Linear Systems with Saturated Outputs,"
+919885,"Learning with product units,"
+928873,"Back, ""Face recognition: a convolutional neural network approach,"""
+943087,"""Theory and practice of vector quantizers trained on small training sets,"""
+948147,A fast Kohonen net implementation for spert-ii.
+948299,Visualizing high-dimensional structure with the incremental grid growing neural network.
+948846,Limitations of self-organizing maps for vector quantization and multidimensional scaling.
+949217,Comparison of neural and statistical classifiers|theory and practice.
+949318,a self-organizing feature map for sequences.
+949511,"Application of neural networks for the classification of diffuse liver disease by quantitative echography. Ultrasonic Imaging,"
+950052,"A Min Tjoa, and Gerti Kappel. Learning the semantic similarity of reusable sotware components."
+950305,Learning topology-preserving maps using self-supervised backpropagation.
+950986,The locally linear nested network for robot manipulation.
+954315,Inductive database design.
+964248,Visualizing the simple bayesian classifier. In KDD Workshop on Issues in the Integration of Data Mining and Data Visualization.
+975567,Adaptive behaviour in competing co-evolving species.
+976284,Algorithmic stability and sanity-check bounds for leave-one-out cross-validation.
+976334,Applying online-search to reinforcement learning.
+987188,A simple randomized quantization algorithm for neural network pattern classifiers.
+987197,"Query, pacs and simple-pac learning."
+989397,Pac learning intersections of halfspaces with membership queries.
+990075,What kind of adaptation do CBR systems need? a review of current practice.
+1000012,Stochastic pro-positionalization of non-determinate background knowledge.
+1022969,Storing and indexing plan derivations through explanation-based analysis of retrieval failures.
+1031453,and Deva Johnam. A neural network pole-balancer that learns and operates on a real robot in real time.
+1050679,A Genetic Algorithm for the Topological Optimization of Neural Networks.
+1059953,"""Worst case prediction over sequences under log loss"" in The Mathematics of Information Coding, Extraction and Distribution,"
+1061127,"Skyt The GANNsystem. Genetic Algorithms generating feedforward neural networks. http://www.daimi.aau.dk/~damgaard/NNSG/ 25 Du Junping,K.L.Rasmussen,J.Aagaard,B.Mayoh, T.Srensen,etc. Applications of Machine Learning: a Medical Follow Up Study."
+1063773,A gentle guide to multiple alignment 2.03.
+1071981,Learning to sense selectively in physical domains.
+1095507,Generalized queries in probabilistic context-free grammars.
