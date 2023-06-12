@@ -199,6 +199,80 @@
      <string>©️Evgeny Vexler &amp; Saar Keshet</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="loadTrainedDataPage1">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>530</y>
+      <width>311</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>18</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Load Trained Data</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="loadDatasetPage1">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>460</y>
+      <width>311</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>18</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Load Dataset</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="visibleLabel1Page1">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>470</y>
+      <width>171</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>CSV File Loaded successfully</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="visibleLabel2Page1">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>540</y>
+      <width>171</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>CSV File Loaded successfully</string>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources>

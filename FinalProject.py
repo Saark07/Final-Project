@@ -1,9 +1,9 @@
 import sys
 import csv
 import re
-
+import pandas as pd
 from PyQt5.QtCore import Qt, QFile, QIODevice
-from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QSizePolicy, QWidget, QMessageBox
+from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QSizePolicy, QWidget, QMessageBox, QFileDialog
 from PyQt5.QtGui import QPixmap, QResizeEvent, QPainter, QIcon
 from PyQt5 import QtWidgets
 
@@ -13,7 +13,8 @@ edgesDictionary = {}
 idToNames = {}
 idToIdSorted = {}
 nameToId = {}
-
+validateFiles1 = False
+validateFiles2 = False
 
 def set_background_image(self, image_path, opacity=1.0):
     # Create a QPixmap from the image file
@@ -42,9 +43,15 @@ class MainWindow(QMainWindow):
 
         # Load the UI form from the .ui file
         self.load_ui()
+        self.validate1 = False
+        self.validate2 = False
+        self.visibleLabel1Page1.setVisible(False)
+        self.visibleLabel2Page1.setVisible(False)
         # Set the window icon
         # Connect the exitButtonPage1 clicked signal to the application quit
         self.exitButtonPage1.clicked.connect(QApplication.quit)
+        self.loadTrainedDataPage1.clicked.connect(self.load_trained_data)
+        self.loadDatasetPage1.clicked.connect(self.load_dataset)
         # Set the background image
         set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
         self.setFixedSize(width, height)
@@ -55,11 +62,40 @@ class MainWindow(QMainWindow):
         from PyQt5 import uic
         uic.loadUi("ui_files/page1.ui", self)
 
+    def load_trained_data(self):
+        # Functions that load the data into a dictionaries
+        file_dialog = QFileDialog()
+        file_path, _ = file_dialog.getOpenFileName(self, 'Select CSV File', '', 'CSV Files (*.csv)')
+        if file_path:
+            # df = pd.read_csv(file_path)
+            self.visibleLabel2Page1.setVisible(True)
+
+            self.validate1 = True
+            LoadData(file_path)
+
+    def load_dataset(self):
+        # Functions that load the data into a dictionaries
+        file_dialog = QFileDialog()
+        file_path, _ = file_dialog.getOpenFileName(self, 'Select CSV File', '', 'CSV Files (*.csv)')
+        if file_path:
+            # df = pd.read_csv(file_path)
+            self.visibleLabel1Page1.setVisible(True)
+
+            self.validate2 = True
+            ReadPapersName(file_path)
+
     def switch_to_page2(self):
-        page2 = Page2()
-        widget.setCurrentIndex(widget.currentIndex() + 1)
-        widget.addWidget(page2)
-        widget.removeWidget(self)
+        if self.validate1 and self.validate2:
+            loading_message = "Loading data...\nPlease be patient for another popup window"
+            QMessageBox.information(self, "Data Loading", loading_message)
+            CreatePapersDictionary()
+            QMessageBox.information(self, "Data Loading", "Data loaded successfully!")
+            page2 = Page2()
+            widget.setCurrentIndex(widget.currentIndex() + 1)
+            widget.addWidget(page2)
+            widget.removeWidget(self)
+        else:
+            QMessageBox.information(self, "No files selected", "Please select csv files to continue.")
 
 
 class Page2(QMainWindow):
@@ -71,7 +107,8 @@ class Page2(QMainWindow):
         set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
         self.setFixedSize(width, height)
         self.searchButtonPage2.clicked.connect(self.switch_to_page3)
-
+        self.homeButtonPage2.setIcon(QIcon("images/home_button.png"))
+        self.homeButtonPage2.clicked.connect(self.switch_to_page1)
         # Connect the returnPressed signal of the line edit to the click slot of the search button
         self.lineEditPage2.returnPressed.connect(self.searchButtonPage2.click)
 
@@ -86,11 +123,17 @@ class Page2(QMainWindow):
         text_to_transfer = self.lineEditPage2.text()
         # print("text to transfer", text_to_transfer)
         if len(text_to_transfer) == 0:
-            QMessageBox.information(self, "No Text Found", "No text matching the search criteria was found.")
+            QMessageBox.information(self, "No Text Found", "No text found in the search bar.")
             return
         page3 = Page3(text_to_transfer)
         widget.setCurrentIndex(widget.currentIndex() + 1)
         widget.addWidget(page3)
+        widget.removeWidget(self)
+
+    def switch_to_page1(self):
+        mainWindow = MainWindow()
+        widget.setCurrentIndex(widget.currentIndex() + 1)
+        widget.addWidget(mainWindow)
         widget.removeWidget(self)
 
 
@@ -102,7 +145,8 @@ class Page3(QMainWindow):
         self.load_ui()
         set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
         self.setFixedSize(width, height)
-
+        self.homeButtonPage3.setIcon(QIcon("images/home_button.png"))
+        self.homeButtonPage3.clicked.connect(self.switch_to_page1)
         # Connect the exitButtonPage1 clicked signal to the application quit
         self.exitButtonPage3.clicked.connect(QApplication.quit)
         self.searchButtonPage3.clicked.connect(self.switch_to_page2)
@@ -117,6 +161,12 @@ class Page3(QMainWindow):
         page2 = Page2()
         widget.setCurrentIndex(widget.currentIndex() + 1)
         widget.addWidget(page2)
+        widget.removeWidget(self)
+
+    def switch_to_page1(self):
+        mainWindow = MainWindow()
+        widget.setCurrentIndex(widget.currentIndex() + 1)
+        widget.addWidget(mainWindow)
         widget.removeWidget(self)
 
     def updateResults(self):
@@ -151,9 +201,8 @@ class Page3(QMainWindow):
             self.textEditPage3.append("No papers found.")
 
 
-def LoadData():
-    input_file = "csv_files/reconstructed_edges.csv"
-    with open(input_file, "r") as file:
+def LoadData(file_path):
+    with open(file_path, "r") as file:
         reader = csv.reader(file)
 
         # Skip the header row
@@ -167,11 +216,12 @@ def LoadData():
     # print(edgesDictionary)
 
 
-def ReadPapersName():
-    import csv
-    filename = "csv_files/paper_names_id.csv"
+def ReadPapersName(file_path):
 
-    with open(filename, "r", newline="") as file:
+    # filename = "csv_files/paper_names_id.csv"
+    # filename = input_file
+
+    with open(file_path, "r", newline="") as file:
         csv_reader = csv.reader(file)
         next(csv_reader)  # Skip the first row (header)
 
@@ -211,11 +261,10 @@ def CreatePapersDictionary():
 
 
 
-# Functions that load the data into a dictionaries
-LoadData()
-ReadPapersName()
-CreatePapersDictionary()
-
+# # Functions that load the data into a dictionaries
+# LoadData()
+# ReadPapersName()
+# CreatePapersDictionary()
 
 
 # Run the App\GUI

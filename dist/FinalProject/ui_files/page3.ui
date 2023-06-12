@@ -212,6 +212,19 @@ p, li { white-space: pre-wrap; }
      <string>©️Evgeny Vexler &amp; Saar Keshet</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="homeButtonPage3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>41</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
    <zorder>backgroundLabel</zorder>
    <zorder>exitButtonPage2</zorder>
    <zorder>searchButtonPage2</zorder>
@@ -221,6 +234,7 @@ p, li { white-space: pre-wrap; }
    <zorder>exitButtonPage3</zorder>
    <zorder>searchButtonPage3</zorder>
    <zorder>label_3</zorder>
+   <zorder>homeButtonPage3</zorder>
   </widget>
  </widget>
  <resources/>

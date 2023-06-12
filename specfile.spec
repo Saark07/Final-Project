@@ -13,9 +13,11 @@ a = Analysis(['FinalProject.py'],
                     ('ui_files/page3.ui', 'ui_files'),
                     ('images/icon.png', 'images'),
                     ('images/icon.ico', 'images'),
+                    ('images/robotic_arm.jpg', 'images'),
+                    ('images/home_button.png', 'images'),
                     ('csv_files/paper_names_id.csv', 'csv_files'),
-                    ('csv_files/reconstructed_edges.csv', 'csv_files'),
-                    ('images/robotic_arm.jpg', 'images')],  # Add the image file entry here
+                    ('csv_files/reconstructed_edges.csv', 'csv_files')],
+
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
