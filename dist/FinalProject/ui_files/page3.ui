@@ -104,9 +104,9 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>60</y>
+      <y>70</y>
       <width>1100</width>
-      <height>90</height>
+      <height>120</height>
      </rect>
     </property>
     <property name="font">
@@ -118,7 +118,8 @@
      </font>
     </property>
     <property name="text">
-     <string>Searching For Academic Papers</string>
+     <string>Evaluating readiness of connected
+ academic papers</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
@@ -197,9 +198,9 @@ p, li { white-space: pre-wrap; }
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>2</x>
       <y>725</y>
-      <width>431</width>
+      <width>430</width>
       <height>21</height>
      </rect>
     </property>

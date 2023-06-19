@@ -53,7 +53,7 @@ class MainWindow(QMainWindow):
         self.loadTrainedDataPage1.clicked.connect(self.load_trained_data)
         self.loadDatasetPage1.clicked.connect(self.load_dataset)
         # Set the background image
-        set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
+        set_background_image(self, "images/books_background.jpg", opacity=0.65)
         self.setFixedSize(width, height)
         # Connect the next button clicked signal to the next page function
         self.nextButtonPage1.clicked.connect(self.switch_to_page2)
@@ -104,7 +104,7 @@ class Page2(QMainWindow):
 
         # Load the UI form from the .ui file
         self.load_ui()
-        set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
+        set_background_image(self, "images/books_background.jpg", opacity=0.65)
         self.setFixedSize(width, height)
         self.searchButtonPage2.clicked.connect(self.switch_to_page3)
         self.homeButtonPage2.setIcon(QIcon("images/home_button.png"))
@@ -143,7 +143,7 @@ class Page3(QMainWindow):
         self.transferred_text = transferred_text
         # Load the UI form from the .ui file
         self.load_ui()
-        set_background_image(self, "images/robotic_arm.jpg", opacity=0.65)
+        set_background_image(self, "images/books_background.jpg", opacity=0.65)
         self.setFixedSize(width, height)
         self.homeButtonPage3.setIcon(QIcon("images/home_button.png"))
         self.homeButtonPage3.clicked.connect(self.switch_to_page1)
@@ -204,7 +204,6 @@ class Page3(QMainWindow):
 def LoadData(file_path):
     with open(file_path, "r") as file:
         reader = csv.reader(file)
-
         # Skip the header row
         next(reader)
 
@@ -258,13 +257,6 @@ def CreatePapersDictionary():
         idToIdSorted[key] = cleaned_list
 
     # print(idToIdSorted)
-
-
-
-# # Functions that load the data into a dictionaries
-# LoadData()
-# ReadPapersName()
-# CreatePapersDictionary()
 
 
 # Run the App\GUI
