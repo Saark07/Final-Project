@@ -72,19 +72,22 @@
     <property name="geometry">
      <rect>
       <x>220</x>
-      <y>210</y>
-      <width>91</width>
-      <height>31</height>
+      <y>216</y>
+      <width>661</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Narkisim</family>
-      <pointsize>20</pointsize>
+      <pointsize>18</pointsize>
      </font>
     </property>
     <property name="text">
-     <string>Results:</string>
+     <string/>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
     </property>
    </widget>
    <widget class="QLabel" name="backgroundLabel">
@@ -132,9 +135,9 @@
     <property name="geometry">
      <rect>
       <x>220</x>
-      <y>250</y>
+      <y>289</y>
       <width>661</width>
-      <height>311</height>
+      <height>320</height>
      </rect>
     </property>
     <property name="styleSheet">
