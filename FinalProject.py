@@ -172,13 +172,14 @@ class Page3(QMainWindow):
     def updateResults(self):
         # Search for ID corresponding to the transferred_text
         id_ = None
+        name = None
         for name, id_value in nameToId.items():
             if self.transferred_text.lower() in name.lower():
                 id_ = id_value
+                name = name
                 break
         if id_ is not None:
-            if id_ == "325497":
-                print("IM HERE")
+            self.searchLabel.setText(name)
             result_names = []
             # Get the sorted IDs list corresponding to the found ID
             sorted_ids = idToIdSorted.get(id_)
