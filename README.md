@@ -51,8 +51,7 @@ Fig3: The training results, represents the number of times each edge was reconst
 
 5) Results:
 
-  ![image](https://github.com/Saark07/Final-Project/assets/80771666/857ca03b-9813-401a-b92a-5d39187bca7e)
-
+![image](https://github.com/Saark07/Final-Project/assets/80771666/e02c22de-f1b4-4795-baa7-0820c4c7ef3b)
 
 
 
